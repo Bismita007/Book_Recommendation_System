@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Display</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Data Display</h1>
+    </header>
+    <main>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('view_sales_data') }}">View Sales Data</a></li>
+                <li><a href="{{ url_for('view_supplier_data') }}">View Supplier Data</a></li>
+                <li><a href="{{ url_for('view_ratings_data') }}">View Ratings Data</a></li>
+                <li><a href="{{ url_for('view_books_data') }}">View Books Data</a></li>
+                <li><a href="{{ url_for('data_issues') }}">View Data Issues</a></li>
+                <li><a href="{{ url_for('clean_sales_data_route') }}">Clean Sales Data</a></li>
+            </ul>
+        </nav>
+
+        <h2>Sales Data</h2>
+        {% if sales_data %}
+            {{ sales_data|safe }}
+        {% else %}
+            <p>No sales data available to display.</p>
+        {% endif %}
+
+        <h2>Supplier Data</h2>
+        {% if supplier_data %}
+            {{ supplier_data|safe }}
+        {% else %}
+            <p>No supplier data available to display.</p>
+        {% endif %}
+
+        <h2>Ratings Data</h2>
+        {% if ratings_data %}
+            {{ ratings_data|safe }}
+        {% else %}
+            <p>No ratings data available to display.</p>
+        {% endif %}
+
+        <h2>Books Data</h2>
+        {% if inventory_data %}
+            {{ inventory_data|safe }}
+        {% else %}
+            <p>No books data available to display.</p>
+        {% endif %}
+
+        {% if cleaned %}
+            <h3>Data has been cleaned successfully!</h3>
+        {% else %}
+            <p>Data before cleaning:</p>
+            <p>Missing Values: {{ missing_values }}</p>
+            <p>Duplicate Entries: {{ duplicate_entries }}</p>
+        {% endif %}
+    </main>
+<button class="back-button" onclick="window.location.href='/'">Back to Home</button>
+</body>
+</html>

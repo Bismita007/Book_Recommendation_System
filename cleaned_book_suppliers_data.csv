@@ -1,0 +1,901 @@
+Order Date,Book Title,ISBN,Quantity,Cost Price (NPR),Supplier
+2018-11-05,Aama Ko Asamanta,978-9937-315-94-8,78.0,524.56,Om Publications
+2018-11-18,Nepali Sahyatri,978-9937-867-83-3,39.0,1324.89,Ratna Pustak Bhandar
+2018-11-21,Khushi Ko Ghar,978-9937-947-31-8,59.0,1119.11,Shankar Books
+2018-11-23,Social Studies for Kids,978-9937-652-71-0,20.0,884.73,Om Publications
+2018-11-26,Ramchandra,978-9937-931-84-9,37.0,1015.5,Mandala Book Point
+2018-11-27,Jatra Ko Rukh,978-9937-906-12-3,51.0,1197.6,Birat Books
+2018-12-02,Raag,978-9937-674-99-3,79.0,1335.3,Gyan Books
+2018-12-04,Children's Literature: An Overview,978-9937-938-45-7,63.0,674.11,Ratna Pustak Bhandar
+2018-12-05,Modern Physics: Concepts and Applications,978-9937-171-55-2,73.0,1487.99,Himalayan Book Centre
+2018-12-06,Sathi ko Diary,978-9937-893-95-1,15.0,636.27,Mitra and Brothers
+2018-12-07,Baal Yatra Sundar Ghar,978-9937-411-38-2,37.0,1219.92,Mitra and Brothers
+2018-12-08,Operations Research,978-9937-803-70-0,82.0,1216.17,Shankar Books
+2018-12-08,Circuit Analysis and Design,978-9937-735-88-4,95.0,438.49,Ekta Books
+2018-12-09,Arthik Bhatta,978-9937-653-52-6,59.0,864.99,Om Publications
+2018-12-17,Introduction to Cultural Studies,978-9937-329-17-2,11.0,1365.67,Sajha Prakashan
+2018-12-18,Dhalko Baato,978-9937-258-10-6,69.0,1432.3,Nirmal Publication
+2018-12-24,Food Security and Nutrition,978-9937-638-72-4,18.0,667.27,Bhimsen Publications
+2018-12-25,Dharmapath,978-9937-466-73-7,93.0,667.1,Sita Ram Prakashan
+2019-01-01,Food Security and Nutrition,978-9937-638-72-4,93.0,633.04,Fine Print
+2019-01-03,Sabai Ko Itihas,978-9937-546-37-6,38.0,1433.0,Siddhartha Books
+2019-01-05,Samaya Ko Dhamaka,978-9937-700-37-0,79.0,1042.45,Sajha Prakashan
+2019-01-07,Research Methodology,978-9937-452-11-5,24.0,1212.5,Srijana Prakashan
+2019-01-16,Gulab,978-9937-679-24-6,32.0,1096.23,Samyukta Prakashan
+2019-01-19,Shree 5 Ambareesh,978-9937-792-38-5,48.0,959.81,Katha Ghar
+2019-01-19,Chhito Ghar Sundar,978-9937-479-71-9,57.0,715.73,Srijana Prakashan
+2019-01-22,Engineering Mechanics: Basics and Applications,978-9937-412-12-0,54.0,219.2,Sajjan Publications
+2019-01-24,Sukanya,978-9937-858-10-9,24.0,974.32,Sajha Prakashan
+2019-01-26,Ujyalo Sathi,978-9937-354-42-0,100.0,362.78,Katha Ghar
+2019-01-30,Yug Ko Ghar,978-9937-668-74-4,55.0,1147.34,Himal Books
+2019-01-31,Bal Yatra Sundar,978-9937-168-26-2,57.0,989.41,Shankar Books
+2019-02-03,Development Economics,978-9937-460-61-5,69.0,168.34,Gyan Books
+2019-02-04,Chhalphal Ko Khushi,978-9937-563-36-2,82.0,867.43,Pragya Publications
+2019-02-06,Dharmapath,978-9937-466-73-7,57.0,895.98,Siddhartha Books
+2019-02-09,Samajik Nyaya,978-9937-656-11-6,53.0,1450.15,Sajha Prakashan
+2019-02-12,Chhito Bal Ghar,978-9937-517-34-0,17.0,710.34,Gyan Books
+2019-02-17,Jatiya Bhasha,978-9937-697-75-2,79.0,182.63,Jagadamba Press
+2019-02-20,Nepali Prajatantra,978-9937-351-87-5,38.0,658.83,Katha Ghar
+2019-02-21,Healthcare Quality Management,978-9937-409-55-2,48.0,615.27,Ekta Books
+2019-02-26,Baal Sundar Yatra,978-9937-427-96-0,56.0,788.34,Educational Publishing House
+2019-03-01,Ghar Ko Yatra,978-9937-492-54-5,44.0,458.15,Bhimsen Publications
+2019-03-01,Guru,978-9937-583-63-3,27.0,268.49,Samyukta Prakashan
+2019-03-04,Bal Sundarta,978-9937-113-19-9,26.0,462.24,Srijana Prakashan
+2019-03-05,Chandra Kanta,978-9937-360-66-2,12.0,241.89,Fine Print
+2019-03-07,Recreational Therapy,978-9937-937-67-2,73.0,1486.06,Avinash Prakashan
+2019-03-14,Business Law,978-9937-414-50-1,46.0,661.11,Himal Books
+2019-03-14,Bholi Ka Ghar,978-9937-724-73-6,51.0,386.58,Om Publications
+2019-03-15,Health Promotion and Disease Prevention,978-9937-698-26-3,93.0,1097.15,Mitra and Brothers
+2019-03-20,Child Rights and Protection,978-9937-701-89-0,18.0,754.52,Bhimsen Publications
+2019-03-26,Bhul Ko Ramailo,978-9937-104-88-1,75.0,1482.78,Shankar Books
+2019-03-26,Introduction to Agriculture,978-9937-733-66-1,86.0,647.34,Pragya Publications
+2019-03-28,Exercise Physiology,978-9937-232-63-2,67.0,723.09,Nepalaya
+2019-03-31,Sukanya,978-9937-858-10-9,15.0,1449.88,Srijana Prakashan
+2019-04-02,Yug,978-9937-241-94-9,100.0,204.03,Mitra and Brothers
+2019-04-04,Calculus for Beginners,978-9937-860-36-6,55.0,813.25,Bhimsen Publications
+2019-04-06,Prakriti Ra Adhikar,978-9937-699-92-0,85.0,845.66,Shrestha Books
+2019-04-14,Satya Harishchandra,978-9937-544-26-9,99.0,779.45,Shankar Books
+2019-04-15,Jindagi Ko Katha,978-9937-932-24-2,40.0,292.97,Ekta Books
+2019-04-16,Jindagi Ko Ramailo,978-9937-641-21-4,47.0,878.28,Ratna Pustak Bhandar
+2019-04-19,Pratikriya,978-9937-318-19-5,75.0,272.29,Mahatma Publication
+2019-04-19,Public Relations: Concepts and Practices,978-9937-967-82-9,63.0,295.31,Pragya Publications
+2019-04-20,Katha Pustak,978-9937-888-20-4,20.0,316.03,Nepalaya
+2019-04-30,Parvaaz,978-9937-247-46-4,94.0,940.09,Mandala Book Point
+2019-04-30,Katha Haru,978-9937-178-94-8,46.0,1180.33,Adroit Publishers
+2019-05-05,Prakriti Ra Manav,978-9937-183-74-0,43.0,268.76,Nirmal Publication
+2019-05-05,History of Nepali Literature,978-9937-855-33-1,25.0,993.54,Sajjan Publications
+2019-05-10,Shiksha Ra Khusi,978-9937-662-31-0,75.0,934.76,Adroit Publishers
+2019-05-11,Sathi Ko Jatra,978-9937-628-21-9,38.0,1277.36,Educational Publishing House
+2019-05-21,Samudayik Itihas,978-9937-938-27-4,73.0,1377.95,Sajjan Publications
+2019-05-22,Business Strategy,978-9937-650-40-0,74.0,1390.09,Samyukta Prakashan
+2019-05-23,Introduction to Business Intelligence,978-9937-352-25-2,21.0,945.97,Om Publications
+2019-05-25,Yatra Ko Marg,978-9937-131-47-5,20.0,764.13,Fine Print
+2019-05-31,Muna Madan,978-9937-869-48-4,23.0,307.43,Siddhartha Books
+2019-06-03,Dharam Sangharsha,978-9937-549-51-8,22.0,743.41,Sita Ram Prakashan
+2019-06-03,Shanti Ko Kahani,978-9937-132-31-8,75.0,593.85,Bhimsen Publications
+2019-06-07,Yatra Ki Manzil,978-9937-367-74-1,63.0,379.15,Himal Books
+2019-06-08,Chhito Thito,978-9937-188-51-7,76.0,996.21,Samyukta Prakashan
+2019-06-09,Chhito Haru,978-9937-208-56-3,62.0,931.74,Mahatma Publication
+2019-06-12,Introduction to Law,978-9937-843-72-3,39.0,1052.99,Jagadamba Press
+2019-06-13,Anmol,978-9937-947-40-5,44.0,1339.87,Sajha Yatayat
+2019-06-14,Chhito Bato,978-9937-724-79-1,41.0,1004.17,Mahatma Publication
+2019-06-16,Ramailo Yatra Sundar,978-9937-809-86-2,67.0,254.73,Mandala Book Point
+2019-06-16,Bhimsen Thapa,978-9937-563-26-0,39.0,559.97,Om Publications
+2019-06-20,Nepal Ko Samaj,978-9937-328-72-1,56.0,803.96,Mahatma Publication
+2019-06-21,Ramchandra,978-9937-931-84-9,67.0,194.19,Sajha Yatayat
+2019-06-23,Samaya Ka Safar,978-9937-253-92-5,92.0,839.86,Nirmal Publication
+2019-06-27,Safar,978-9937-186-78-3,59.0,1238.52,Mandala Book Point
+2019-06-30,Birgunj,978-9937-368-60-0,14.0,371.35,Adroit Publishers
+2019-06-30,Nepali Itihas Ko Itihas,978-9937-587-69-9,83.0,399.15,Srijana Prakashan
+2019-07-02,Nepali Bhasha Ra Samaj,978-9937-466-69-2,47.0,1230.52,Srijana Prakashan
+2019-07-02,Khushi Ko Ghar Yatra,978-9937-385-88-8,34.0,224.86,Jagadamba Press
+2019-07-05,Introduction to Human Rights,978-9937-904-76-0,87.0,939.55,Ratna Pustak Bhandar
+2019-07-06,Fundamentals of Logic,978-9937-397-76-5,65.0,803.66,Pragya Publications
+2019-07-15,Cost Accounting Techniques,978-9937-392-31-3,32.0,1040.6,Sita Ram Prakashan
+2019-07-19,Maya Ra Ghar,978-9937-975-26-2,83.0,674.77,Pragya Publications
+2019-07-23,Udaan Ko Yatra,978-9937-275-92-7,64.0,1079.11,Himalayan Book Centre
+2019-07-28,Bheti,978-9937-381-66-4,67.0,1482.23,Mandala Book Point
+2019-08-02,Maya Ko Katha,978-9937-761-49-7,97.0,297.44,Ratna Pustak Bhandar
+2019-08-04,Dhan Ko Dhoka,978-9937-826-70-9,90.0,1098.46,Bookhill
+2019-08-06,Philosophy of Art,978-9937-105-78-8,55.0,1401.75,Nirmal Publication
+2019-08-07,Bujhnu Parne Katha,978-9937-175-14-3,93.0,1066.68,Shree Tara Books
+2019-08-08,Documentary Film Making,978-9937-690-34-0,87.0,452.6,Srijana Prakashan
+2019-08-08,Chhalphal Sundar Kahani,978-9937-759-21-4,62.0,1302.25,Sajha Yatayat
+2019-08-10,History of Nepal,978-9937-112-35-7,93.0,1194.97,Sita Ram Prakashan
+2019-08-12,Philosophy of Art,978-9937-105-78-8,45.0,428.95,Fine Print
+2019-08-18,Nepal Ko Manavadhikar,978-9937-957-91-8,24.0,1221.29,Ekta Books
+2019-08-20,Sathi,978-9937-174-82-2,91.0,719.3,Shankar Books
+2019-08-22,Introduction to Software Testing,978-9937-918-76-5,24.0,1314.12,Fine Print
+2019-08-25,Nepali Samaj Ko Katha,978-9937-663-90-8,77.0,501.52,Srijana Prakashan
+2019-08-25,Dev,978-9937-581-66-0,73.0,649.06,Educational Publishing House
+2019-08-27,Ramailo Ghar,978-9937-586-85-5,94.0,180.83,Sajha Yatayat
+2019-08-30,Mero Nepal,978-9937-295-58-7,43.0,1100.7,Samyukta Prakashan
+2019-08-31,Arthik Itihas,978-9937-694-42-6,67.0,1259.19,Mandala Book Point
+2019-09-02,Sadhak,978-9937-119-11-5,31.0,954.17,Shree Tara Books
+2019-09-03,Raag,978-9937-674-99-3,94.0,376.95,Gyan Books
+2019-09-06,Kheti Ko Katha,978-9937-219-80-4,76.0,200.91,Ekta Books
+2019-09-06,Chalti Jatra,978-9937-170-33-4,66.0,717.61,Srijana Prakashan
+2019-09-07,Nepal Ko Ramailo,978-9937-979-32-8,60.0,1253.12,Srijana Prakashan
+2019-09-10,Ghar Ko Dhan,978-9937-479-34-1,49.0,1485.3,Bookhill
+2019-09-11,Fundamentals of Accounting,978-9937-298-27-7,84.0,1473.06,Samyukta Prakashan
+2019-09-12,Digital Transformation Strategies,978-9937-188-43-3,15.0,1161.21,Siddhartha Books
+2019-09-15,Samaya Ko Dhamaka,978-9937-700-37-0,90.0,529.16,Shrestha Books
+2019-09-15,Shiksha Ra Vikas,978-9937-230-15-0,56.0,704.58,Himalayan Book Centre
+2019-09-19,Dharma Ra Ramailo,978-9937-986-59-4,52.0,502.53,Samyukta Prakashan
+2019-09-19,Natural Disasters in Nepal,978-9937-261-33-8,96.0,1249.74,Sajha Prakashan
+2019-09-25,Jatra Ko Samaya,978-9937-756-25-7,18.0,511.34,Ekta Books
+2019-09-26,Maya Ra Sathi,978-9937-647-42-3,74.0,868.04,Sajha Yatayat
+2019-09-27,Chhalphal Kahani,978-9937-783-60-9,35.0,381.52,Gyan Books
+2019-10-01,Veterinary Science: Principles and Applications,978-9937-226-42-3,16.0,154.36,Sita Ram Prakashan
+2019-10-01,Anubhav,978-9937-877-31-3,51.0,1094.54,Katha Ghar
+2019-10-05,Nepali Udyog Ko Itihas Ra Katha,978-9937-684-65-4,94.0,1092.99,Avinash Prakashan
+2019-10-07,Ramailo Ghar Ko Katha,978-9937-254-86-9,37.0,1346.85,Om Publications
+2019-10-08,Samajik Adhikar,978-9937-907-91-2,100.0,618.05,Bookhill
+2019-10-12,Pariwartan Ko Samaya,978-9937-278-79-7,53.0,413.82,Gyan Books
+2019-10-13,Safar Ka Mantra,978-9937-422-26-1,87.0,856.77,Bookhill
+2019-10-13,Parvaaz,978-9937-247-46-4,58.0,242.57,Jagadamba Press
+2019-10-13,Anthropology of Music,978-9937-275-35-2,20.0,692.05,Nepalaya
+2019-10-16,Ek Bato,978-9937-497-90-7,27.0,220.05,Jagadamba Press
+2019-10-25,Nepali Grammar,978-9937-961-39-5,85.0,1018.45,Educational Publishing House
+2019-10-26,Bal Katha Sangraha,978-9937-773-91-6,57.0,1261.31,Jagadamba Press
+2019-10-26,Introduction to Forestry,978-9937-337-18-6,32.0,369.0,Sita Ram Prakashan
+2019-10-31,Microprocessor Design: Theory and Applications,978-9937-516-38-6,91.0,849.36,Sajjan Publications
+2019-11-01,Shrestha Manchhe,978-9937-817-62-6,55.0,871.22,Om Publications
+2019-11-01,Prashasan Ra Udyog,978-9937-765-37-5,82.0,1259.36,Shree Tara Books
+2019-11-07,Fagun Daka,978-9937-501-24-1,89.0,417.47,Siddhartha Books
+2019-11-09,Bholi Ko Ghar,978-9937-256-68-9,16.0,401.64,Gyan Books
+2019-11-13,Prakriti Ra Bikas,978-9937-632-35-2,24.0,664.19,Shree Tara Books
+2019-11-14,Chhito Khushi Pataka,978-9937-403-58-3,73.0,275.26,Samyukta Prakashan
+2019-11-18,Nepal Ko Prashasan,978-9937-553-29-3,37.0,1122.38,Shrestha Books
+2019-11-20,Khusi Ko Ramailo Ghar,978-9937-279-81-7,65.0,1461.87,Jagadamba Press
+2019-11-21,Manas Ka Safar,978-9937-140-21-7,19.0,721.13,Ekta Books
+2019-11-21,Civil Engineering Basics,978-9937-423-50-9,43.0,1133.36,Ratna Pustak Bhandar
+2019-11-21,Health Communication,978-9937-370-37-9,22.0,1057.4,Srijana Prakashan
+2019-11-25,Ghar Ko Bato,978-9937-229-58-6,68.0,753.03,Katha Ghar
+2019-11-26,Water Resources Engineering,978-9937-105-89-8,91.0,171.86,Nirmal Publication
+2019-11-26,Ramailo Ghar Kahani,978-9937-109-36-1,56.0,1290.62,Katha Ghar
+2019-11-27,Nepali Itihas Ko Anubhav,978-9937-615-32-6,23.0,1202.27,Shankar Books
+2019-11-28,Nepali Udyog Ko Bato,978-9937-482-47-7,94.0,866.25,Birat Books
+2019-11-29,Saroj,978-9937-931-24-5,91.0,1370.97,Shree Tara Books
+2019-12-02,Baal Bihani,978-9937-924-82-2,42.0,954.16,Samyukta Prakashan
+2019-12-03,Ek Chhito Sapana,978-9937-342-89-4,73.0,1168.17,Pragya Publications
+2019-12-09,Man Ko Yatra,978-9937-976-97-5,27.0,586.34,Birat Books
+2019-12-10,Narendra Dai,978-9937-661-46-5,15.0,1277.29,Himalayan Book Centre
+2019-12-11,Mantra Ko Katha,978-9937-784-75-7,40.0,1422.61,Educational Publishing House
+2019-12-16,Yatra Ko Khushi,978-9937-383-99-2,33.0,1315.74,Jagadamba Press
+2019-12-18,Swargadwari,978-9937-432-82-9,100.0,314.27,Shree Tara Books
+2019-12-19,Health Systems and Policies,978-9937-345-44-7,64.0,1282.58,Sajha Prakashan
+2019-12-21,Sankalpa,978-9937-570-57-1,19.0,1167.39,Ekta Books
+2019-12-22,Aashako Manchhe,978-9937-970-99-1,73.0,1307.97,Samyukta Prakashan
+2019-12-22,Nepali Ghar,978-9937-751-49-2,86.0,1134.38,Mandala Book Point
+2019-12-24,Ritu,978-9937-639-83-4,70.0,268.43,Ekta Books
+2019-12-27,Ramailo Ghar Yatra,978-9937-876-13-6,94.0,1317.36,Avinash Prakashan
+2019-12-30,Ek Chhoto Yatra,978-9937-186-28-8,71.0,975.88,Sita Ram Prakashan
+2020-01-01,Nepal Ko Udyog Ko Itihas,978-9937-567-84-4,54.0,1107.95,Katha Ghar
+2020-01-09,Sundar Pustak,978-9937-939-21-6,77.0,521.87,Sajha Yatayat
+2020-01-09,Basanta,978-9937-437-28-0,18.0,313.79,Om Publications
+2020-01-13,Arthik Samasya,978-9937-690-15-9,51.0,259.96,Shrestha Books
+2020-01-14,Modern Physics: Concepts and Applications,978-9937-171-55-2,29.0,503.9,Samyukta Prakashan
+2020-01-14,Naya Khushi,978-9937-559-55-6,75.0,997.7,Om Publications
+2020-01-14,Bal Bhet,978-9937-496-36-6,11.0,1159.51,Sita Ram Prakashan
+2020-01-16,Physics - Kramik Pathakram,978-9937-626-91-3,63.0,1202.63,Mandala Book Point
+2020-01-17,Chhito Ghar Sundar,978-9937-479-71-9,80.0,604.72,Srijana Prakashan
+2020-01-17,Samaya Ko Yatra,978-9937-332-46-5,37.0,971.43,Shree Tara Books
+2020-01-27,Kahani Ko Duniya,978-9937-558-79-2,38.0,1065.55,Nirmal Publication
+2020-01-28,Khushi Ko Yatra,978-9937-288-81-9,62.0,694.17,Srijana Prakashan
+2020-01-31,Yatra Ko Rukh,978-9937-222-92-7,13.0,1438.2,Mandala Book Point
+2020-02-07,Birgunj,978-9937-368-60-0,18.0,982.88,Katha Ghar
+2020-02-07,Samaya Ma Ghar,978-9937-971-54-8,71.0,585.18,Adroit Publishers
+2020-02-11,Bato Haru,978-9937-760-27-3,11.0,233.83,Mahatma Publication
+2020-02-12,Ramailo Jeevan,978-9937-284-33-8,50.0,658.21,Bhimsen Publications
+2020-02-12,Samaya Ko Dhamaka,978-9937-700-37-0,22.0,1411.96,Adroit Publishers
+2020-02-13,Qualitative Research Methods,978-9937-898-21-9,72.0,261.92,Nirmal Publication
+2020-02-16,Data Structures and Algorithms,978-9937-554-22-5,56.0,1218.2,Nirmal Publication
+2020-02-17,Satya Harishchandra,978-9937-544-26-9,53.0,1330.89,Sajjan Publications
+2020-02-20,Health Communication,978-9937-370-37-9,37.0,695.79,Sajjan Publications
+2020-02-23,Introduction to Business Intelligence,978-9937-352-25-2,26.0,455.02,Nepalaya
+2020-02-24,Microeconomics: Principles and Practices,978-9937-148-52-9,80.0,1014.07,Himalayan Book Centre
+2020-02-24,Crisis Management,978-9937-484-12-0,65.0,320.82,Mandala Book Point
+2020-02-26,Bujhi Ko Kahani,978-9937-966-25-9,81.0,1173.53,Himalayan Book Centre
+2020-03-05,Aama Ko Parcha,978-9937-270-26-5,72.0,639.02,Nepalaya
+2020-03-07,Aama Ko Asamanta,978-9937-315-94-8,79.0,800.45,Srijana Prakashan
+2020-03-17,Linear Algebra,978-9937-317-46-8,31.0,1467.65,Mandala Book Point
+2020-03-19,Nepal Ko Chitwan,978-9937-503-65-4,81.0,219.54,Srijana Prakashan
+2020-03-19,Chhito Yatra,978-9937-834-39-8,34.0,395.12,Bhimsen Publications
+2020-03-21,Microprocessor Design: Theory and Applications,978-9937-516-38-6,65.0,175.13,Sajjan Publications
+2020-03-21,Computer Science: Class 11,978-9937-950-20-6,21.0,627.02,Pragya Publications
+2020-03-24,Cybersecurity Fundamentals,978-9937-143-51-2,25.0,219.02,Nepalaya
+2020-03-28,Nepal Ko Yatra,978-9937-223-32-3,91.0,917.73,Sajha Yatayat
+2020-03-29,Language Teaching Methods,978-9937-811-87-3,41.0,1241.99,Adroit Publishers
+2020-04-02,Sathi ko Diary,978-9937-893-95-1,31.0,1396.3,Pragya Publications
+2020-04-04,Manavadhikar Ra Nyaya,978-9937-334-28-0,61.0,921.37,Samyukta Prakashan
+2020-04-04,Nepali Bhasha Ra Samaj,978-9937-466-69-2,94.0,869.73,Himal Books
+2020-04-07,Geographical Information Systems (GIS),978-9937-533-97-5,76.0,255.47,Ratna Pustak Bhandar
+2020-04-08,Ghumti Duniya,978-9937-938-39-7,29.0,1134.53,Shrestha Books
+2020-04-08,Jatra Ma Ramailo,978-9937-956-86-6,51.0,1364.37,Himalayan Book Centre
+2020-04-16,Katha Ra Samaya,978-9937-374-26-5,11.0,406.02,Gyan Books
+2020-04-19,Yatra Ra Khushi,978-9937-758-84-6,46.0,483.3,Nepalaya
+2020-04-26,Food Security and Nutrition,978-9937-638-72-4,72.0,1048.99,Adroit Publishers
+2020-05-03,Pramod,978-9937-348-27-8,25.0,689.88,Nepalaya
+2020-05-05,Chhito,978-9937-133-54-2,81.0,683.01,Sajha Yatayat
+2020-05-08,Prashasan Ko Adhikar,978-9937-923-70-2,43.0,625.73,Pragya Publications
+2020-05-09,Samaya Ma Duniya,978-9937-689-90-1,67.0,228.0,Shrestha Books
+2020-05-10,Emotional Intelligence,978-9937-713-29-1,60.0,218.72,Shrestha Books
+2020-05-10,Katha Haru Ko Vishwa,978-9937-250-26-4,85.0,1036.34,Fine Print
+2020-05-12,Samaya Ko Dhamaka,978-9937-700-37-0,60.0,1337.78,Ratna Pustak Bhandar
+2020-05-20,Kaatnako Paani,978-9937-856-50-1,32.0,168.55,Adroit Publishers
+2020-05-25,Bato Ko Ghar,978-9937-925-92-3,31.0,1379.28,Avinash Prakashan
+2020-05-26,Aasha Ko Paila,978-9937-337-27-9,78.0,1054.08,Srijana Prakashan
+2020-05-26,Yatra Ki Aasha,978-9937-528-85-8,24.0,1157.47,Himal Books
+2020-05-31,Recreational Therapy,978-9937-937-67-2,50.0,1409.76,Nepalaya
+2020-06-03,Chhito Ramailo Ghar,978-9937-492-49-7,56.0,690.54,Om Publications
+2020-06-03,Sathi Ko Ramailo,978-9937-377-11-0,29.0,1385.16,Shankar Books
+2020-06-04,Fagun Daka,978-9937-501-24-1,49.0,685.34,Pragya Publications
+2020-06-08,Patient Care and Management,978-9937-889-57-8,14.0,670.7,Mitra and Brothers
+2020-06-15,Shiksha Ra Khusi Ko Katha,978-9937-369-94-7,52.0,1149.86,Srijana Prakashan
+2020-06-19,Rajesh,978-9937-582-14-1,20.0,495.08,Gyan Books
+2020-06-19,Psychology: An Introduction,978-9937-990-48-1,14.0,1137.29,Himal Books
+2020-06-19,Physics - Kramik Pathakram,978-9937-626-91-3,82.0,891.0,Srijana Prakashan
+2020-06-20,Business Law: An Overview,978-9937-465-32-1,12.0,1322.95,Fine Print
+2020-06-22,Globalization and Its Impact,978-9937-623-47-4,93.0,1276.78,Fine Print
+2020-07-03,Ekta Ko Mahatv,978-9937-632-54-6,76.0,283.87,Himalayan Book Centre
+2020-07-04,Maya Ko Samaya,978-9937-610-66-4,77.0,888.22,Nepalaya
+2020-07-09,Computer Architecture Fundamentals,978-9937-962-93-7,76.0,1366.3,Katha Ghar
+2020-07-10,Technology in Education,978-9937-952-26-9,24.0,1210.5,Mandala Book Point
+2020-07-12,Bhul Ko Ramailo,978-9937-104-88-1,81.0,1150.55,Himalayan Book Centre
+2020-07-12,Kahani Ghar,978-9937-398-17-7,59.0,820.73,Pragya Publications
+2020-07-17,Ethics in Education,978-9937-575-15-1,92.0,224.25,Adroit Publishers
+2020-07-17,Baal Ramailo Ghar,978-9937-654-20-5,30.0,589.02,Sajha Prakashan
+2020-07-26,Maile Kahan Pako,978-9937-928-70-4,90.0,1043.42,Himal Books
+2020-07-27,Foundations of Geometry,978-9937-502-92-3,94.0,185.53,Educational Publishing House
+2020-07-30,Yatra Ko Rukh,978-9937-222-92-7,73.0,1028.1,Om Publications
+2020-07-31,Mantra Ko Katha,978-9937-784-75-7,19.0,784.63,Sajha Prakashan
+2020-08-03,Indigenous Rights and Issues,978-9937-794-76-1,13.0,997.27,Fine Print
+2020-08-03,Sanjhi,978-9937-953-44-7,26.0,353.62,Mitra and Brothers
+2020-08-03,Arthik Vikas Ra Samaj,978-9937-675-33-7,96.0,398.22,Shrestha Books
+2020-08-04,Nepali Grammar,978-9937-961-39-5,10.0,860.84,Sajha Prakashan
+2020-08-07,Bholanath,978-9937-787-47-5,29.0,1254.91,Shree Tara Books
+2020-08-09,Marketing Research,978-9937-124-60-5,25.0,699.01,Sajha Yatayat
+2020-08-17,Chitwan,978-9937-571-40-1,21.0,308.84,Himal Books
+2020-08-19,Zindagi,978-9937-606-77-6,60.0,571.35,Shree Tara Books
+2020-08-22,Maitri,978-9937-987-76-3,39.0,332.55,Gyan Books
+2020-08-25,Jatra Ka Hunkar,978-9937-645-21-0,35.0,265.78,Bookhill
+2020-08-27,Kahani Ko Ramailo,978-9937-170-47-4,71.0,763.37,Gyan Books
+2020-08-31,Dhoondh,978-9937-484-50-6,51.0,729.87,Avinash Prakashan
+2020-09-03,Sukh Ko Sathi,978-9937-461-18-3,38.0,679.11,Sajjan Publications
+2020-09-04,Baal Sundar Pustak,978-9937-275-51-8,93.0,855.41,Bhimsen Publications
+2020-09-16,Farm Management,978-9937-530-60-6,28.0,903.3,Shankar Books
+2020-09-17,Nepal Ko Sangharsha,978-9937-588-42-6,96.0,1148.46,Shree Tara Books
+2020-09-18,Sathi Ko Safar,978-9937-316-92-3,36.0,793.79,Srijana Prakashan
+2020-09-20,Chhalphal Ko Ramailo Kahani,978-9937-659-45-9,65.0,990.35,Sajha Prakashan
+2020-09-21,Satyabadi,978-9937-896-63-4,85.0,1057.26,Sajha Yatayat
+2020-09-25,Ek Chhaina,978-9937-703-37-7,86.0,1297.43,Avinash Prakashan
+2020-09-30,Ghar Ko Katha,978-9937-458-93-3,82.0,686.11,Jagadamba Press
+2020-10-02,Bal Ramailo,978-9937-665-68-3,75.0,1061.48,Fine Print
+2020-10-05,Nepal Ko Udyog,978-9937-368-40-7,46.0,227.74,Mahatma Publication
+2020-10-07,Sukha Dukha,978-9937-619-39-8,45.0,714.15,Sita Ram Prakashan
+2020-10-10,Teacher Education and Training,978-9937-468-75-1,20.0,350.47,Pragya Publications
+2020-10-12,Kina,978-9937-230-80-2,33.0,344.0,Shankar Books
+2020-10-18,Bholi Ka Katha,978-9937-508-97-6,43.0,887.72,Himal Books
+2020-10-19,Ecology: Principles and Applications,978-9937-247-12-2,74.0,1116.85,Shrestha Books
+2020-10-19,Urban Design: Concepts and Applications,978-9937-717-57-4,63.0,1078.78,Nepalaya
+2020-10-19,Dharma Ko Anand,978-9937-399-30-4,34.0,1118.93,Nirmal Publication
+2020-10-27,Ramailo Jeevan,978-9937-284-33-8,73.0,634.11,Ekta Books
+2020-10-30,Naya Sangraha,978-9937-789-72-3,18.0,1228.27,Katha Ghar
+2020-11-02,Manav Ko Maya,978-9937-278-97-6,18.0,1431.47,Bhimsen Publications
+2020-11-04,Negotiation Skills,978-9937-770-94-6,23.0,1467.19,Sajjan Publications
+2020-11-05,Nepal Ko Yatra,978-9937-223-32-3,52.0,322.11,Srijana Prakashan
+2020-11-06,Ghatana,978-9937-204-71-5,44.0,330.15,Gyan Books
+2020-11-07,Public Administration in Nepal,978-9937-926-81-2,63.0,1242.59,Himalayan Book Centre
+2020-11-09,Duniya Ko Sathi,978-9937-203-35-2,45.0,930.66,Himal Books
+2020-11-11,Thulo Pasa,978-9937-811-15-4,22.0,376.53,Nepalaya
+2020-11-14,Nutritional Science and Dietetics,978-9937-825-66-0,18.0,720.08,Himalayan Book Centre
+2020-11-17,Sathi Haru Ka Safar,978-9937-945-42-9,46.0,1050.68,Katha Ghar
+2020-11-18,Bholi Ka Ghar,978-9937-724-73-6,69.0,1292.03,Om Publications
+2020-11-20,Philosophy of Nursing,978-9937-877-94-7,68.0,936.44,Mandala Book Point
+2020-11-24,Nepal Ko Udyog Ko Itihas,978-9937-567-84-4,48.0,430.76,Avinash Prakashan
+2020-11-25,Parvaaz,978-9937-247-46-4,45.0,1148.47,Avinash Prakashan
+2020-12-01,Nepal Ko Ghar Ko Itihas,978-9937-997-70-3,96.0,158.35,Katha Ghar
+2020-12-02,Classroom Management Techniques,978-9937-423-50-9,55.0,490.32,Sajha Prakashan
+2020-12-05,Katha Ko Katha,978-9937-109-97-0,48.0,910.31,Sajha Prakashan
+2020-12-07,Yatra Ma Maya,978-9937-791-56-0,58.0,1233.77,Ratna Pustak Bhandar
+2020-12-10,Electromagnetism: Principles and Applications,978-9937-363-31-4,79.0,1200.6,Bookhill
+2020-12-23,Chhapakkai,978-9937-904-70-4,10.0,1468.68,Sajjan Publications
+2020-12-24,Chhalphal Ghar,978-9937-484-32-5,33.0,599.28,Srijana Prakashan
+2020-12-28,Katha Pustak,978-9937-888-20-4,76.0,834.48,Srijana Prakashan
+2021-01-03,Negotiation Skills,978-9937-770-94-6,65.0,1135.09,Siddhartha Books
+2021-01-05,Exercise Physiology,978-9937-232-63-2,92.0,1386.33,Sajha Prakashan
+2021-01-06,Aasha Ko Maya,978-9937-441-72-8,52.0,1392.88,Pragya Publications
+2021-01-10,Maya Ra Sathi,978-9937-647-42-3,10.0,283.16,Educational Publishing House
+2021-01-11,Jatra Ma Khushi Yatra,978-9937-356-58-3,99.0,168.84,Sajha Yatayat
+2021-01-19,Rajesh,978-9937-582-14-1,23.0,811.37,Himalayan Book Centre
+2021-01-20,Ankhako Pani,978-9937-657-70-5,75.0,421.93,Himalayan Book Centre
+2021-01-27,Kahani Ko Udaan,978-9937-323-11-5,54.0,1024.61,Shankar Books
+2021-01-30,Dharma Ra Ramailo,978-9937-986-59-4,43.0,665.56,Sajha Prakashan
+2021-02-01,Investment Management,978-9937-568-30-0,12.0,355.21,Himal Books
+2021-02-04,Introduction to Fashion Design,978-9937-124-38-6,32.0,1204.3,Mahatma Publication
+2021-02-05,Yatra Ra Khushi,978-9937-758-84-6,47.0,487.16,Mahatma Publication
+2021-02-10,Ramailo Sundar Ghar Kahani,978-9937-851-85-6,91.0,864.24,Jagadamba Press
+2021-02-12,Paisa Ko Katha,978-9937-907-84-4,49.0,812.88,Sajjan Publications
+2021-02-12,Arthik Vikas Ra Itihas,978-9937-690-22-3,18.0,471.21,Fine Print
+2021-02-15,Khusi Ko Ramailo Ghar Ko Kahani,978-9937-852-88-1,97.0,1024.92,Sajjan Publications
+2021-02-17,Ramailo Yatra Sundar,978-9937-809-86-2,33.0,1070.42,Gyan Books
+2021-02-17,Mechanics and Thermodynamics,978-9937-173-59-7,59.0,520.98,Sajha Yatayat
+2021-02-28,Nepali Udyog Ko Itihas Ra Katha,978-9937-684-65-4,44.0,1158.35,Jagadamba Press
+2021-03-01,Bal Ramailo,978-9937-665-68-3,13.0,1205.23,Sajha Prakashan
+2021-03-03,Bhoj Ko Katha,978-9937-288-81-4,88.0,1480.56,Sajha Prakashan
+2021-03-05,Dhalko Aakha,978-9937-513-28-5,36.0,424.64,Avinash Prakashan
+2021-03-09,Mangal Singh,978-9937-366-78-3,24.0,433.58,Nepalaya
+2021-03-18,Ghar Ko Yatra,978-9937-492-54-5,68.0,632.08,Mandala Book Point
+2021-03-18,Ek Chhaina,978-9937-703-37-7,55.0,580.12,Himalayan Book Centre
+2021-03-19,Data Analytics: Basics and Applications,978-9937-100-57-7,53.0,375.18,Om Publications
+2021-03-20,Chhito Khushi Ramailo,978-9937-438-31-0,11.0,1301.25,Fine Print
+2021-03-23,Marine Biology: Concepts and Applications,978-9937-939-66-6,40.0,178.64,Nirmal Publication
+2021-03-25,Katha Haru Ko Sanga,978-9937-948-56-4,10.0,415.66,Nirmal Publication
+2021-03-28,Samaya Ka Safar,978-9937-253-92-5,65.0,1487.65,Shankar Books
+2021-03-30,Dhaak Ko Dhan,978-9937-532-19-9,80.0,305.95,Om Publications
+2021-04-05,Chhalphal Ramailo Yatra,978-9937-361-92-4,51.0,1339.82,Ekta Books
+2021-04-09,Pratikriya,978-9937-318-19-5,74.0,754.22,Shankar Books
+2021-04-12,Agroecology: Principles and Practices,978-9937-303-96-4,50.0,1202.88,Siddhartha Books
+2021-04-13,Organic Farming: Theory and Practice,978-9937-237-59-4,24.0,710.86,Birat Books
+2021-04-13,Sajilo Yatra,978-9937-901-70-8,81.0,188.29,Birat Books
+2021-04-13,Yatra,978-9937-236-75-3,82.0,1250.52,Shankar Books
+2021-04-14,Maya Ko Ankh,978-9937-799-96-6,100.0,1069.36,Sajjan Publications
+2021-04-14,Ek Chhoto Yatra,978-9937-186-28-8,25.0,1323.05,Adroit Publishers
+2021-04-16,Arthik Sewa Ra Samasya,978-9937-374-86-5,100.0,791.74,Shree Tara Books
+2021-04-17,Nepal Yatra,978-9937-112-78-2,61.0,923.43,Avinash Prakashan
+2021-04-17,Chhito Ramailo Kahani,978-9937-994-44-5,79.0,193.28,Samyukta Prakashan
+2021-04-24,Yatra Ra Katha,978-9937-369-34-2,16.0,574.19,Avinash Prakashan
+2021-04-25,Bholi Ko Maya,978-9937-600-78-5,34.0,356.07,Educational Publishing House
+2021-04-27,Introduction to Environmental Studies,978-9937-160-46-7,50.0,1204.2,Sajjan Publications
+2021-04-28,Nepal Ko Khusi,978-9937-723-11-6,24.0,1085.51,Shankar Books
+2021-04-29,Achieving Your Goals,978-9937-958-53-7,11.0,1363.64,Bhimsen Publications
+2021-04-29,Nepali Udyog Ko Itihas Ra Katha,978-9937-684-65-4,68.0,1162.75,Ekta Books
+2021-05-01,Cognitive Psychology,978-9937-948-97-6,48.0,1447.37,Mitra and Brothers
+2021-05-04,Aasha Ko Katha,978-9937-708-37-3,40.0,193.41,Srijana Prakashan
+2021-05-06,Bal Bhat Bhateni,978-9937-533-90-5,14.0,160.12,Birat Books
+2021-05-11,Yatra Ko Antim Katha,978-9937-513-68-7,69.0,674.63,Ekta Books
+2021-05-15,Sanjay,978-9937-312-13-5,84.0,907.91,Pragya Publications
+2021-05-16,Computer Science: Class 11,978-9937-950-20-6,26.0,1485.35,Himal Books
+2021-05-19,Dhan Ko Dhoka,978-9937-826-70-9,32.0,1026.54,Ratna Pustak Bhandar
+2021-05-23,Nepal Ko Samaj,978-9937-328-72-1,64.0,1454.02,Sajha Yatayat
+2021-05-24,Madhav Ko Bato,978-9937-150-22-3,100.0,1166.55,Jagadamba Press
+2021-05-24,Jatiya Bato Ra Udyog,978-9937-894-98-2,99.0,812.4,Mahatma Publication
+2021-05-26,Nirmal,978-9937-593-96-0,57.0,534.44,Pragya Publications
+2021-05-28,Management Information Systems,978-9937-428-92-0,87.0,1103.56,Jagadamba Press
+2021-05-28,Bal Ghar,978-9937-443-88-3,66.0,879.22,Srijana Prakashan
+2021-05-29,Dhaak Ko Duniya,978-9937-375-37-1,74.0,547.0,Shankar Books
+2021-05-29,Shashwat,978-9937-922-54-5,48.0,263.17,Shree Tara Books
+2021-05-30,Shiksha Ra Udyog,978-9937-923-16-7,49.0,1446.48,Samyukta Prakashan
+2021-05-31,Samaya Ko Dhamaka,978-9937-700-37-0,100.0,338.42,Samyukta Prakashan
+2021-06-01,Janata Ko Manch,978-9937-947-63-1,21.0,840.7,Gyan Books
+2021-06-03,Gender Studies in Nepal,978-9937-702-97-3,61.0,176.62,Katha Ghar
+2021-06-04,Taxation Principles and Practices,978-9937-729-64-3,87.0,1143.41,Himal Books
+2021-06-05,History of Nepali Literature,978-9937-855-33-1,88.0,1170.79,Gyan Books
+2021-06-06,Project Management,978-9937-929-90-7,67.0,675.27,Mitra and Brothers
+2021-06-06,Baal Yatra Sundar Ghar,978-9937-411-38-2,69.0,1356.92,Sajha Prakashan
+2021-06-08,Bato Ko Katha,978-9937-621-97-5,54.0,677.48,Adroit Publishers
+2021-06-14,Musical Theory and Composition,978-9937-338-71-4,84.0,660.9,Ekta Books
+2021-06-16,Sita Ram,978-9937-721-48-7,26.0,1075.0,Mandala Book Point
+2021-06-18,Natural Disasters in Nepal,978-9937-261-33-8,57.0,573.41,Ekta Books
+2021-06-22,Introduction to Drama and Theatre,978-9937-115-32-7,81.0,169.02,Nepalaya
+2021-06-23,Naya Chhaya,978-9937-797-13-5,48.0,585.64,Educational Publishing House
+2021-06-23,Advertising: Theory and Strategy,978-9937-965-26-4,67.0,266.98,Avinash Prakashan
+2021-06-24,Adhyan Ko Mahatv,978-9937-602-24-2,28.0,959.39,Bhimsen Publications
+2021-06-27,Financial Management: Theory and Practice,978-9937-986-42-4,55.0,847.02,Sajha Prakashan
+2021-07-01,Shree 5 Ambareesh,978-9937-792-38-5,33.0,771.07,Shree Tara Books
+2021-07-03,Ghar ko Ghar,978-9937-691-75-9,29.0,631.84,Shrestha Books
+2021-07-04,Social Justice and Equity,978-9937-621-42-7,94.0,1493.23,Adroit Publishers
+2021-07-04,Ramailo Kahani,978-9937-102-66-3,16.0,689.04,Bookhill
+2021-07-06,Maya Ko Katha,978-9937-761-49-7,84.0,458.22,Sajjan Publications
+2021-07-08,Bhul Ko Ghar,978-9937-380-66-5,47.0,1288.1,Siddhartha Books
+2021-07-12,Katha Haru Ko Khushi,978-9937-795-36-9,65.0,325.59,Mitra and Brothers
+2021-07-14,Mindfulness and Mental Health,978-9937-366-47-8,88.0,257.26,Gyan Books
+2021-07-15,Nepal Ko Itihas Ra Bikas,978-9937-301-77-0,20.0,786.19,Shree Tara Books
+2021-07-15,Aama,978-9937-547-47-3,90.0,1042.31,Ekta Books
+2021-07-19,Cybersecurity Fundamentals,978-9937-143-51-2,50.0,1324.31,Jagadamba Press
+2021-07-22,Sukh Ko Sathi,978-9937-461-18-3,78.0,1185.67,Siddhartha Books
+2021-07-24,Dhalko Baato,978-9937-258-10-6,89.0,1483.39,Bhimsen Publications
+2021-07-25,Ekta Ko Katha,978-9937-472-24-0,16.0,638.86,Katha Ghar
+2021-07-26,Jatiya Bhasha,978-9937-697-75-2,68.0,752.94,Bookhill
+2021-07-26,The Beauty of Nepali Culture,978-9937-720-74-3,13.0,702.51,Katha Ghar
+2021-07-30,Introduction to Law,978-9937-843-72-3,53.0,300.17,Siddhartha Books
+2021-08-06,Dhananjoy,978-9937-302-77-5,68.0,1175.37,Om Publications
+2021-08-08,Photography: Principles and Practice,978-9937-587-96-6,45.0,629.5,Sajjan Publications
+2021-08-08,Nepal Ko Adhikar Ra Bato,978-9937-700-97-8,34.0,967.52,Siddhartha Books
+2021-08-09,Digital Marketing Strategies,978-9937-461-58-1,91.0,1384.07,Sajjan Publications
+2021-08-10,Dev,978-9937-581-66-0,29.0,1435.79,Pragya Publications
+2021-08-10,Sahakarita,978-9937-696-59-8,60.0,897.49,Om Publications
+2021-08-15,Bal Katha,978-9937-128-82-5,59.0,614.18,Adroit Publishers
+2021-08-16,Introduction to Human Behavior,978-9937-171-16-7,89.0,1349.31,Jagadamba Press
+2021-08-20,Samajik Adhikar,978-9937-907-91-2,77.0,1390.12,Srijana Prakashan
+2021-08-26,Nepal Ko Manav Ko Itihas,978-9937-196-73-8,11.0,876.17,Adroit Publishers
+2021-08-27,Ramailo Kahani,978-9937-102-66-3,76.0,286.53,Nirmal Publication
+2021-08-31,Mass Communication: Theory and Practice,978-9937-414-19-5,100.0,439.42,Birat Books
+2021-09-03,Khushi Ko Katha,978-9937-962-49-3,97.0,641.81,Himalayan Book Centre
+2021-09-05,Engineering Management: Theory and Practice,978-9937-495-22-0,42.0,814.1,Avinash Prakashan
+2021-09-05,Introduction to Forestry,978-9937-337-18-6,71.0,318.46,Gyan Books
+2021-09-06,Sunya Manchhe,978-9937-683-87-4,93.0,872.27,Avinash Prakashan
+2021-09-08,Pramod,978-9937-348-27-8,43.0,1336.17,Nirmal Publication
+2021-09-10,Structural Engineering Basics,978-9937-454-23-3,83.0,265.99,Birat Books
+2021-09-17,Sunya Manchhe,978-9937-683-87-4,24.0,840.04,Mandala Book Point
+2021-09-18,Curriculum Development and Design,978-9937-933-89-8,34.0,1390.81,Pragya Publications
+2021-09-20,Circuit Analysis and Design,978-9937-735-88-4,79.0,1129.27,Ekta Books
+2021-09-25,Manavadhikar Ko Samasya,978-9937-690-31-6,17.0,1272.26,Gyan Books
+2021-10-02,Chhito Sundar,978-9937-584-80-8,71.0,379.98,Shree Tara Books
+2021-10-03,Palpasa Café,978-9937-699-43-7,53.0,362.38,Adroit Publishers
+2021-10-04,Anthropology of Music,978-9937-275-35-2,98.0,1236.91,Educational Publishing House
+2021-10-07,Samarpan,978-9937-669-77-4,91.0,1389.36,Pragya Publications
+2021-10-12,Nepali Rhymes,978-9937-398-35-1,28.0,1236.49,Bhimsen Publications
+2021-10-12,Veterinary Science: Principles and Applications,978-9937-226-42-3,65.0,399.36,Pragya Publications
+2021-10-13,The Beauty of Nepali Culture,978-9937-720-74-3,98.0,909.66,Birat Books
+2021-10-16,Yatra Ma Duniya,978-9937-968-35-4,54.0,250.57,Jagadamba Press
+2021-10-18,Medical Terminology,978-9937-254-81-6,51.0,647.36,Mitra and Brothers
+2021-10-19,Communication Skills,978-9937-240-23-8,19.0,295.09,Samyukta Prakashan
+2021-10-24,Bal Bhet,978-9937-496-36-6,93.0,605.05,Fine Print
+2021-10-25,Mangal,978-9937-108-15-9,71.0,813.13,Educational Publishing House
+2021-10-27,Chhalphal Ko Yatra,978-9937-901-29-8,62.0,1184.91,Sajha Prakashan
+2021-10-27,Samudayik Itihas,978-9937-938-27-4,21.0,762.23,Ratna Pustak Bhandar
+2021-10-28,Power Systems Engineering,978-9937-407-28-2,62.0,265.88,Himalayan Book Centre
+2021-11-05,Political Science: Theory and Practice,978-9937-132-65-4,65.0,667.86,Avinash Prakashan
+2021-11-15,Film Studies: An Introduction,978-9937-483-73-2,63.0,1338.52,Bhimsen Publications
+2021-11-15,Dharma Ko Kahani,978-9937-838-22-7,50.0,274.53,Bhimsen Publications
+2021-11-18,Nepali Sahyatri,978-9937-867-83-3,55.0,371.71,Sajha Prakashan
+2021-11-23,Shiksha Ra Nyaya,978-9937-493-62-9,31.0,265.19,Educational Publishing House
+2021-11-24,Nepali Samasya Ko Itihas,978-9937-641-46-8,30.0,833.38,Himalayan Book Centre
+2021-11-24,Chal Pani,978-9937-504-62-9,44.0,873.59,Adroit Publishers
+2021-11-24,Development Economics,978-9937-460-61-5,61.0,405.01,Mitra and Brothers
+2021-11-27,Nepal Ko Mitra,978-9937-540-97-6,61.0,1150.62,Avinash Prakashan
+2021-11-28,Introduction to Film Production,978-9937-497-66-4,56.0,1381.27,Siddhartha Books
+2021-12-01,Nepali Samaj Ra Vikas,978-9937-373-82-6,82.0,893.27,Sita Ram Prakashan
+2021-12-01,Vikas Ra Samaj,978-9937-678-84-1,96.0,671.75,Mandala Book Point
+2021-12-07,History of Nepal: Ancient to Modern,978-9937-446-99-7,57.0,637.93,Srijana Prakashan
+2021-12-07,Sabai Ko Adhikar Ra Bato,978-9937-248-31-8,67.0,1372.96,Katha Ghar
+2021-12-07,Jeevan Chha,978-9937-147-46-1,11.0,327.52,Fine Print
+2021-12-08,Sahakarita,978-9937-696-59-8,67.0,1187.59,Avinash Prakashan
+2021-12-14,Yatra Ma Chaya,978-9937-479-38-4,15.0,375.3,Mitra and Brothers
+2021-12-16,Organizational Behavior,978-9937-225-75-7,18.0,151.34,Siddhartha Books
+2021-12-19,Arthik Udyog,978-9937-169-72-1,43.0,1451.65,Bhimsen Publications
+2021-12-24,Mathematics for Management,978-9937-384-92-9,53.0,1464.75,Shrestha Books
+2021-12-28,Manoj,978-9937-763-12-0,41.0,242.89,Sajha Yatayat
+2021-12-29,Manavadhikar Ko Itihas Ra Bato,978-9937-178-83-3,31.0,870.19,Himal Books
+2022-01-02,Organic Chemistry: Concepts and Applications,978-9937-107-39-9,78.0,1116.82,Birat Books
+2022-01-03,Shiksha Ko Mahatv,978-9937-213-87-2,27.0,771.41,Om Publications
+2022-01-05,Chhalphal Ramailo Kahani,978-9937-384-44-2,70.0,194.36,Sita Ram Prakashan
+2022-01-08,Yatra,978-9937-236-75-3,66.0,942.79,Sajjan Publications
+2022-01-10,Sathi,978-9937-174-82-2,74.0,942.24,Shrestha Books
+2022-01-12,Sathi Haru,978-9937-188-92-1,10.0,1270.19,Mahatma Publication
+2022-01-15,Duniya Ko Ramailo,978-9937-229-34-5,43.0,786.87,Pragya Publications
+2022-01-19,Anand Ko Ghar,978-9937-518-11-4,48.0,737.14,Birat Books
+2022-01-21,Dev,978-9937-581-66-0,87.0,1146.15,Jagadamba Press
+2022-01-22,Thulo Pasa,978-9937-811-15-4,93.0,413.73,Katha Ghar
+2022-01-22,Nepali Prashasan Ko Bato,978-9937-345-47-2,46.0,1168.46,Samyukta Prakashan
+2022-01-22,Kagbeni Ko Bato,978-9937-279-16-5,63.0,1162.04,Siddhartha Books
+2022-01-23,Introduction to Human Rights,978-9937-904-76-0,21.0,458.4,Katha Ghar
+2022-01-28,Arthik Adhikar Ra Bato,978-9937-550-56-0,40.0,1190.67,Sita Ram Prakashan
+2022-02-02,Chhito Haru,978-9937-208-56-3,74.0,300.13,Sajha Prakashan
+2022-02-03,A Brief History of Nepal,978-9937-242-24-7,100.0,1121.39,Birat Books
+2022-02-03,Yatra Ma Muktak,978-9937-255-45-5,25.0,1392.46,Himalayan Book Centre
+2022-02-03,Introduction to Physical Education,978-9937-176-36-0,62.0,1284.68,Ekta Books
+2022-02-04,Nepali Samaj Ra Vikas,978-9937-373-82-6,42.0,1256.26,Sajha Prakashan
+2022-02-04,Arthik Bhatta,978-9937-653-52-6,35.0,1494.87,Ekta Books
+2022-02-11,Nepal Ko Itihas,978-9937-638-85-7,22.0,1188.29,Samyukta Prakashan
+2022-02-11,Shiksha Ra Khusi,978-9937-662-31-0,26.0,280.75,Himalayan Book Centre
+2022-02-15,Arthik Bhatta,978-9937-653-52-6,65.0,1350.53,Shrestha Books
+2022-02-16,Sukh Ko Samaya,978-9937-598-15-9,90.0,990.59,Birat Books
+2022-02-16,Kaun,978-9937-553-75-0,44.0,564.27,Shrestha Books
+2022-02-19,Biology Workbook,978-9937-762-66-9,79.0,901.49,Mitra and Brothers
+2022-02-20,Technology in Education,978-9937-952-26-9,39.0,287.77,Shrestha Books
+2022-02-22,Dharma Ko Dhan,978-9937-122-42-3,72.0,1080.87,Bookhill
+2022-02-27,Nepali Samasya Ko Katha,978-9937-551-67-8,86.0,1395.74,Shree Tara Books
+2022-02-27,Chura,978-9937-323-61-1,73.0,671.51,Sajha Yatayat
+2022-03-03,Nepali Udyog Ko Itihas,978-9937-222-15-9,49.0,703.48,Himal Books
+2022-03-07,Nepal Ko Manavadhikar,978-9937-957-91-8,85.0,669.4,Om Publications
+2022-03-08,Naulo Ghar,978-9937-394-45-8,87.0,639.47,Jagadamba Press
+2022-03-14,Maya,978-9937-864-36-2,14.0,380.41,Mahatma Publication
+2022-03-19,Jatra Ma Bhet,978-9937-697-42-2,18.0,1245.93,Sajjan Publications
+2022-03-19,Yugal Gurung,978-9937-979-11-1,84.0,1309.86,Himal Books
+2022-03-20,Samaya Ko Ramailo,978-9937-828-23-0,58.0,684.56,Srijana Prakashan
+2022-03-27,Samriddhi,978-9937-679-61-6,87.0,998.71,Samyukta Prakashan
+2022-03-29,Scrum and Lean Methodologies,978-9937-445-49-9,15.0,621.33,Shankar Books
+2022-04-01,Ankhako Pani,978-9937-657-70-5,98.0,991.83,Ratna Pustak Bhandar
+2022-04-01,Ghar Ko Khusi,978-9937-456-15-5,37.0,913.2,Pragya Publications
+2022-04-04,Renewable Energy Technologies,978-9937-578-32-6,80.0,210.56,Jagadamba Press
+2022-04-06,Prakriti Ra Bikas,978-9937-632-35-2,37.0,598.93,Jagadamba Press
+2022-04-10,Ghar Ko Raat,978-9937-182-30-7,83.0,410.74,Sita Ram Prakashan
+2022-04-14,Communication in Organizations,978-9937-702-99-5,36.0,779.71,Sajha Yatayat
+2022-04-17,Abstract Algebra: Concepts and Applications,978-9937-770-96-1,48.0,676.89,Sajjan Publications
+2022-04-17,Web Development Fundamentals,978-9937-324-51-4,39.0,1197.99,Adroit Publishers
+2022-04-18,Shree 5 Ambareesh,978-9937-792-38-5,27.0,725.63,Mahatma Publication
+2022-04-19,Musical Theory and Composition,978-9937-338-71-4,31.0,934.03,Sita Ram Prakashan
+2022-04-19,Electronics and Communication Engineering,978-9937-459-14-5,23.0,1289.92,Shankar Books
+2022-04-21,Chhalphal Ghar Ko Ramailo,978-9937-665-67-2,86.0,554.87,Sajha Yatayat
+2022-04-21,Samudayik Itihas,978-9937-938-27-4,33.0,229.78,Fine Print
+2022-04-23,Shree 5 Ko Yatra,978-9937-738-25-6,27.0,409.73,Siddhartha Books
+2022-04-23,Bal Katha,978-9937-128-82-5,92.0,1061.16,Shankar Books
+2022-04-26,Policy Analysis and Advocacy,978-9937-679-32-0,59.0,720.24,Siddhartha Books
+2022-04-27,Chhalphal Ghar Pataka,978-9937-596-41-8,40.0,1284.5,Ekta Books
+2022-04-27,Bal Kahani Ramailo,978-9937-838-46-3,44.0,802.73,Om Publications
+2022-05-01,Mathematical Logic and Reasoning,978-9937-957-97-4,74.0,714.91,Avinash Prakashan
+2022-05-02,Duniya Ko Dhan,978-9937-677-61-3,57.0,281.73,Mitra and Brothers
+2022-05-05,Bhul Ko Yatra,978-9937-601-52-2,39.0,541.68,Gyan Books
+2022-05-08,Chhito Sundar Pataka,978-9937-461-56-0,57.0,232.46,Educational Publishing House
+2022-05-08,Jatra Ko Maya,978-9937-188-89-7,16.0,713.62,Himalayan Book Centre
+2022-05-09,Anand Ra Duniya,978-9937-940-19-5,67.0,225.96,Ekta Books
+2022-05-10,History of Physical Education in Nepal,978-9937-992-28-2,52.0,1452.59,Adroit Publishers
+2022-05-12,International Business: Concepts and Applications,978-9937-594-63-0,23.0,1356.49,Ekta Books
+2022-05-13,Man Ko Ramailo,978-9937-453-19-8,97.0,1411.2,Siddhartha Books
+2022-05-14,Sundar Yatra,978-9937-784-16-5,38.0,420.38,Birat Books
+2022-05-15,Ramailo Sundar,978-9937-588-23-4,59.0,220.32,Mitra and Brothers
+2022-05-17,Shukrabar,978-9937-455-23-2,10.0,797.7,Fine Print
+2022-05-23,Engineering Mechanics: Basics and Applications,978-9937-412-12-0,76.0,865.57,Mandala Book Point
+2022-05-28,Dhalko Aakha,978-9937-513-28-5,19.0,644.04,Shree Tara Books
+2022-05-30,Pratikriya,978-9937-318-19-5,52.0,722.34,Bookhill
+2022-05-31,Smriti,978-9937-796-76-8,93.0,1062.94,Birat Books
+2022-06-01,Shrestha Manchhe,978-9937-817-62-6,14.0,177.3,Nirmal Publication
+2022-06-04,Water Resource Management,978-9937-453-22-6,47.0,491.37,Samyukta Prakashan
+2022-06-06,Power Systems Engineering,978-9937-407-28-2,19.0,224.36,Sajha Prakashan
+2022-06-06,Chhito Bhayo,978-9937-741-82-9,97.0,939.84,Mahatma Publication
+2022-06-08,Ramailo Jeevan,978-9937-284-33-8,73.0,1131.29,Mandala Book Point
+2022-06-09,Man Ko Vishwa,978-9937-592-15-6,24.0,1325.16,Siddhartha Books
+2022-06-12,Cybersecurity Essentials,978-9937-295-62-8,22.0,211.81,Shree Tara Books
+2022-06-13,Nawa Safar,978-9937-536-12-6,81.0,1159.88,Ekta Books
+2022-06-14,Management Accounting,978-9937-429-90-5,48.0,837.08,Ratna Pustak Bhandar
+2022-06-19,Biology Workbook,978-9937-762-66-9,20.0,1045.08,Ekta Books
+2022-06-20,Neuroscience: Basics and Applications,978-9937-783-88-2,55.0,405.07,Om Publications
+2022-06-28,Socio-Economic Development in Nepal,978-9937-826-41-6,48.0,820.86,Fine Print
+2022-07-04,Dharma Ko Yatra,978-9937-508-73-0,69.0,1308.1,Bhimsen Publications
+2022-07-07,Qualitative Research Methods,978-9937-898-21-9,65.0,426.18,Ekta Books
+2022-07-07,Nepal Ko Sanskriti,978-9937-328-41-5,67.0,1449.23,Shankar Books
+2022-07-10,Kahani Ko Duniya,978-9937-558-79-2,44.0,1393.63,Shankar Books
+2022-07-18,Satya Harishchandra,978-9937-544-26-9,16.0,1380.68,Sita Ram Prakashan
+2022-07-19,Global Health Issues,978-9937-583-74-0,15.0,835.26,Ratna Pustak Bhandar
+2022-07-19,Saathi,978-9937-752-19-9,39.0,456.72,Sita Ram Prakashan
+2022-07-25,Globalization and Its Impact,978-9937-623-47-4,89.0,1431.44,Himalayan Book Centre
+2022-07-28,Chhito Ghar,978-9937-683-81-7,74.0,581.89,Siddhartha Books
+2022-07-29,Nutritional Science and Dietetics,978-9937-825-66-0,91.0,989.57,Shankar Books
+2022-07-31,Katha Ko Samaya,978-9937-810-13-4,32.0,196.99,Siddhartha Books
+2022-08-02,Data Analytics: Basics and Applications,978-9937-100-57-7,72.0,255.06,Sajjan Publications
+2022-08-07,Introduction to Fashion Design,978-9937-124-38-6,91.0,1122.74,Srijana Prakashan
+2022-08-08,Introduction to Blockchain Technology,978-9937-235-56-8,22.0,1397.18,Himal Books
+2022-08-18,Ramita,978-9937-820-79-6,91.0,633.4,Samyukta Prakashan
+2022-08-18,Bal Yatra Ramailo,978-9937-886-64-5,76.0,773.09,Bhimsen Publications
+2022-08-23,Engineering Management: Theory and Practice,978-9937-495-22-0,83.0,695.46,Shree Tara Books
+2022-08-24,Yugal Gurung,978-9937-979-11-1,83.0,1091.38,Mitra and Brothers
+2022-08-26,Supply Chain Management,978-9937-431-56-9,29.0,842.04,Shankar Books
+2022-08-27,Samman,978-9937-266-56-0,10.0,745.43,Ekta Books
+2022-08-28,Wildlife Conservation,978-9937-222-41-1,99.0,706.84,Bookhill
+2022-08-28,Himalaya Ka Katha,978-9937-326-98-0,92.0,614.88,Mandala Book Point
+2022-08-31,Manas Ka Safar,978-9937-140-21-7,84.0,773.07,Gyan Books
+2022-09-01,Chhalphal Ko Ramailo Kahani,978-9937-659-45-9,83.0,1332.26,Sita Ram Prakashan
+2022-09-02,Neuroscience: Basics and Applications,978-9937-783-88-2,71.0,1217.32,Avinash Prakashan
+2022-09-02,Ghar Ko Kahani,978-9937-363-83-2,97.0,1220.43,Bookhill
+2022-09-03,Musical Theory and Composition,978-9937-338-71-4,40.0,215.89,Sajha Yatayat
+2022-09-07,Saraswati Prasad,978-9937-203-77-7,98.0,977.11,Siddhartha Books
+2022-09-15,Maya Ko Samaya,978-9937-610-66-4,11.0,674.8,Om Publications
+2022-09-16,Maya Ra Sathi,978-9937-647-42-3,57.0,1009.24,Birat Books
+2022-09-20,Chhimeki Ko Bato,978-9937-126-88-2,38.0,1085.57,Himal Books
+2022-09-25,Dai Ko Yatra,978-9937-101-13-5,94.0,1362.2,Om Publications
+2022-09-27,Dai Ko Yatra,978-9937-101-13-5,41.0,1067.68,Samyukta Prakashan
+2022-09-29,Chori Ko Bato,978-9937-345-86-5,17.0,614.07,Himalayan Book Centre
+2022-09-29,Introduction to Topology,978-9937-706-80-2,15.0,1495.8,Sajjan Publications
+2022-09-30,Chhito Ramailo Kahani,978-9937-994-44-5,17.0,840.75,Katha Ghar
+2022-09-30,Yugal Gurung,978-9937-979-11-1,60.0,1254.79,Srijana Prakashan
+2022-10-01,Sajha Ko Dhan,978-9937-460-70-9,49.0,632.86,Ekta Books
+2022-10-04,Climate Change and Its Impact,978-9937-782-47-9,64.0,605.82,Srijana Prakashan
+2022-10-05,Manchhe Ko Aakanksha,978-9937-959-77-2,97.0,906.48,Ekta Books
+2022-10-07,Yugal Gurung,978-9937-979-11-1,20.0,1194.45,Educational Publishing House
+2022-10-07,Chhalphal Ko Ramailo Kahani,978-9937-659-45-9,33.0,907.93,Sita Ram Prakashan
+2022-10-10,Yatra Ko Prasiddhi,978-9937-272-40-0,43.0,803.57,Bookhill
+2022-10-13,Chemistry: Concepts and Applications,978-9937-766-83-6,86.0,1359.63,Nepalaya
+2022-10-16,Ghar Ko Samaya,978-9937-805-39-2,79.0,293.66,Mahatma Publication
+2022-10-21,Manasvi,978-9937-574-25-2,81.0,1353.98,Mahatma Publication
+2022-10-22,Macroeconomics: Theory and Applications,978-9937-714-22-6,61.0,1371.15,Bhimsen Publications
+2022-10-23,Anant,978-9937-992-29-7,57.0,861.89,Om Publications
+2022-10-25,Disaster Management,978-9937-109-52-4,33.0,365.13,Samyukta Prakashan
+2022-10-25,Ek Bato,978-9937-497-90-7,25.0,810.55,Educational Publishing House
+2022-10-31,Physics - Kramik Pathakram,978-9937-626-91-3,20.0,477.53,Educational Publishing House
+2022-10-31,Baal Ramailo Ghar,978-9937-654-20-5,65.0,415.3,Shree Tara Books
+2022-10-31,Sustainable Development Goals,978-9937-327-48-6,73.0,588.15,Bhimsen Publications
+2022-11-02,Samudayik Vikas,978-9937-817-77-6,77.0,1354.91,Katha Ghar
+2022-11-07,Kahani Ko Duniya,978-9937-558-79-2,39.0,1043.64,Educational Publishing House
+2022-11-08,Katha Ra Samaya,978-9937-374-26-5,78.0,688.97,Samyukta Prakashan
+2022-11-09,Environmental Chemistry,978-9937-690-29-9,22.0,1232.37,Siddhartha Books
+2022-11-10,Baal Manch,978-9937-612-80-5,71.0,542.83,Educational Publishing House
+2022-11-12,Sampurna,978-9937-575-35-7,94.0,498.96,Gyan Books
+2022-11-12,Chhito Bato,978-9937-724-79-1,97.0,1088.97,Sajjan Publications
+2022-11-13,Bal Ko Chalo,978-9937-320-83-1,82.0,254.35,Adroit Publishers
+2022-11-13,Introduction to Robotics,978-9937-234-53-1,14.0,904.06,Mahatma Publication
+2022-11-15,Sanskar Ko Asar,978-9937-160-42-9,12.0,1437.89,Shankar Books
+2022-11-23,Safar Ki Samaya,978-9937-898-69-4,98.0,1149.79,Fine Print
+2022-11-24,Waves and Optics,978-9937-838-92-2,83.0,290.72,Bookhill
+2022-11-26,Chhito Ghar Yatra,978-9937-813-69-6,44.0,592.61,Pragya Publications
+2022-12-03,Samaya Ko Dhamaka,978-9937-700-37-0,14.0,1021.4,Mitra and Brothers
+2022-12-05,Kheti Ko Katha,978-9937-219-80-4,30.0,546.53,Fine Print
+2022-12-06,Chhalphal Yatra Ghar,978-9937-645-28-6,13.0,656.41,Shree Tara Books
+2022-12-08,Ghar Ko Sahar,978-9937-760-84-8,72.0,584.29,Mahatma Publication
+2022-12-17,Ek Chhito Sapana,978-9937-342-89-4,97.0,161.92,Sajha Yatayat
+2022-12-18,Environmental Engineering Principles,978-9937-762-92-1,13.0,267.28,Bookhill
+2022-12-22,Katha Ko Chha,978-9937-133-55-6,86.0,692.3,Fine Print
+2022-12-23,Nepal Ko Chitwan,978-9937-503-65-4,66.0,1318.19,Shree Tara Books
+2022-12-26,Shiksha Ko Mahatv,978-9937-213-87-2,79.0,534.27,Katha Ghar
+2022-12-28,Cloud Computing Basics,978-9937-896-98-9,88.0,543.53,Nepalaya
+2022-12-29,Chhalphal Yatra Ramailo,978-9937-376-59-4,49.0,240.4,Mandala Book Point
+2022-12-29,Baal Yatra Ko Sundar,978-9937-118-48-5,47.0,1401.3,Educational Publishing House
+2022-12-29,Baal Ramailo Kahani,978-9937-571-95-2,25.0,388.71,Srijana Prakashan
+2023-01-12,Chhito Ghar Sundar,978-9937-479-71-9,36.0,278.56,Bhimsen Publications
+2023-01-18,Samajik Itihas Ko Mahatv,978-9937-500-62-0,60.0,501.57,Sajha Yatayat
+2023-01-19,Ma Timro Sangai,978-9937-394-47-5,17.0,976.61,Nepalaya
+2023-01-24,Nepal ko Yatra,978-9937-522-32-0,12.0,864.05,Bhimsen Publications
+2023-01-25,Sangharsha Ko Yatra,978-9937-648-74-0,26.0,822.35,Educational Publishing House
+2023-01-27,Sanskriti Ra Itihas,978-9937-881-60-0,57.0,678.16,Siddhartha Books
+2023-01-30,Chhalphal Yatra Ramailo,978-9937-376-59-4,38.0,1096.63,Gyan Books
+2023-01-31,Ramailo Sundar Ghar,978-9937-132-10-8,68.0,456.79,Samyukta Prakashan
+2023-02-03,Shree Krishna,978-9937-506-20-3,62.0,250.25,Siddhartha Books
+2023-02-03,Yatra Ko Sangraha,978-9937-603-18-6,39.0,859.16,Samyukta Prakashan
+2023-02-05,Bhagya Rekha,978-9937-889-64-2,54.0,1490.34,Adroit Publishers
+2023-02-06,Chandra Ko Katha,978-9937-284-35-5,96.0,651.15,Educational Publishing House
+2023-02-10,Jindagiko Hawa,978-9937-465-73-6,54.0,228.97,Om Publications
+2023-02-10,Sundar Pustak,978-9937-939-21-6,57.0,711.8,Shankar Books
+2023-02-10,Architecture: Basics and Design Principles,978-9937-979-15-1,95.0,1203.31,Ekta Books
+2023-02-10,Sathi,978-9937-174-82-2,40.0,1467.32,Shrestha Books
+2023-02-17,Chhito Khushi,978-9937-146-99-6,49.0,995.96,Katha Ghar
+2023-02-21,Anand Ko Vishwa,978-9937-119-28-7,28.0,1498.46,Himalayan Book Centre
+2023-02-23,Nepali Bhasha Ra Samaj,978-9937-466-69-2,61.0,1221.84,Katha Ghar
+2023-02-27,Khushi Ko Vishwa,978-9937-240-44-2,39.0,688.49,Nirmal Publication
+2023-02-28,Structural Engineering Basics,978-9937-454-23-3,74.0,1485.36,Srijana Prakashan
+2023-03-06,Philosophy of Nursing,978-9937-877-94-7,67.0,881.49,Srijana Prakashan
+2023-03-09,Shishir,978-9937-408-24-2,96.0,1058.77,Nirmal Publication
+2023-03-12,Journalism: Principles and Ethics,978-9937-986-47-5,23.0,1013.17,Avinash Prakashan
+2023-03-16,Chhalphal Ko Kahani,978-9937-818-83-1,99.0,1450.38,Gyan Books
+2023-03-20,Chhalphal Yatra Ramailo,978-9937-376-59-4,20.0,355.58,Shankar Books
+2023-03-20,Emotional Intelligence,978-9937-713-29-1,89.0,390.36,Nepalaya
+2023-03-22,Arthik Bhatta,978-9937-653-52-6,21.0,934.59,Himal Books
+2023-03-27,Ramailo Sundar Ghar Kahani,978-9937-851-85-6,40.0,973.5,Jagadamba Press
+2023-03-27,Nepali Mantra,978-9937-725-85-7,91.0,914.35,Shree Tara Books
+2023-03-28,Bal Ramailo,978-9937-665-68-3,79.0,355.91,Nirmal Publication
+2023-03-30,Sathi Ko Duniya,978-9937-827-11-8,76.0,1026.95,Katha Ghar
+2023-03-30,Bal Yatra Ramailo,978-9937-886-64-5,71.0,395.45,Bookhill
+2023-04-07,Katha Ko Chha,978-9937-133-55-6,44.0,1418.65,Siddhartha Books
+2023-04-07,Development Economics,978-9937-460-61-5,34.0,296.31,Bhimsen Publications
+2023-04-09,Jatra Ko Samaya,978-9937-756-25-7,80.0,645.06,Himal Books
+2023-04-11,Yashoda,978-9937-639-55-5,88.0,203.24,Sita Ram Prakashan
+2023-04-13,Fundamentals of Information Technology,978-9937-851-73-2,67.0,1106.79,Gyan Books
+2023-04-14,Pagal Basti,978-9937-321-55-4,63.0,453.03,Shrestha Books
+2023-04-19,Nepali Prashasan,978-9937-366-82-9,89.0,847.66,Jagadamba Press
+2023-04-20,Pani Ra Maya,978-9937-711-10-7,99.0,598.25,Samyukta Prakashan
+2023-04-22,Mitra,978-9937-369-32-9,59.0,994.54,Sajha Yatayat
+2023-04-22,Biology Workbook,978-9937-762-66-9,62.0,396.62,Mandala Book Point
+2023-04-27,Suna Ko Chhito,978-9937-472-80-5,73.0,1111.89,Educational Publishing House
+2023-05-03,Chhya Jatra,978-9937-885-74-5,79.0,1103.58,Avinash Prakashan
+2023-05-05,Ramailo Khushi Kahani,978-9937-384-97-4,37.0,498.95,Siddhartha Books
+2023-05-10,Maya Ra Yatra,978-9937-278-20-8,83.0,779.72,Pragya Publications
+2023-05-13,Sports Psychology,978-9937-749-37-8,41.0,1408.89,Srijana Prakashan
+2023-05-16,Ujyalo Sathi,978-9937-354-42-0,31.0,1059.26,Himal Books
+2023-05-19,Arthik Itihas Ko Samaya,978-9937-915-59-3,66.0,689.19,Ekta Books
+2023-05-20,Naulo Ghar,978-9937-394-45-8,71.0,223.91,Pragya Publications
+2023-05-21,Ramailo Ghar Kahani,978-9937-109-36-1,84.0,624.68,Nirmal Publication
+2023-05-25,Janata Ko Manch,978-9937-947-63-1,90.0,1395.33,Ratna Pustak Bhandar
+2023-05-25,Nepal Ko Rajneeti,978-9937-338-68-6,73.0,1265.08,Shrestha Books
+2023-05-28,Katha Ko Prakash,978-9937-541-67-4,97.0,377.63,Educational Publishing House
+2023-05-29,Sathi Ko Aastha,978-9937-966-28-5,54.0,1498.72,Himalayan Book Centre
+2023-05-30,Naya Saathi,978-9937-572-68-1,71.0,720.82,Ekta Books
+2023-05-31,Chhalphal Ko Khushi,978-9937-563-36-2,54.0,342.95,Mandala Book Point
+2023-06-01,Introduction to Fashion Design,978-9937-124-38-6,99.0,632.6,Fine Print
+2023-06-01,Katha Haru Ko Udaan,978-9937-108-38-3,26.0,919.24,Fine Print
+2023-06-04,Yatra Ma Duniya,978-9937-968-35-4,42.0,750.35,Himal Books
+2023-06-14,Microprocessor Design: Theory and Applications,978-9937-516-38-6,60.0,731.43,Mitra and Brothers
+2023-06-19,Maanav Ra Yatra,978-9937-390-90-8,22.0,1083.24,Nepalaya
+2023-06-22,Mindfulness and Mental Health,978-9937-366-47-8,76.0,404.21,Sajha Prakashan
+2023-06-23,Khushi Ko Ramailo Yatra,978-9937-453-89-4,85.0,387.54,Shree Tara Books
+2023-06-23,Samaya Ma Duniya,978-9937-689-90-1,65.0,1073.39,Himalayan Book Centre
+2023-06-25,Shahar Ko Katha,978-9937-950-75-2,72.0,406.07,Mitra and Brothers
+2023-06-27,Katha Ko Katha,978-9937-109-97-0,93.0,203.36,Sajjan Publications
+2023-06-27,Samaya Ko Ramailo,978-9937-828-23-0,81.0,1166.12,Om Publications
+2023-06-27,Khusi Ko Ramailo Ghar,978-9937-279-81-7,24.0,709.48,Mandala Book Point
+2023-06-30,Bholi Ko Maya,978-9937-600-78-5,61.0,567.03,Ekta Books
+2023-06-30,Electromagnetism: Principles and Applications,978-9937-363-31-4,16.0,877.87,Mandala Book Point
+2023-07-03,Bal Manch Ramailo,978-9937-932-60-1,64.0,241.95,Siddhartha Books
+2023-07-06,Baal Ghar Ko Yatra,978-9937-778-64-5,53.0,1288.67,Mandala Book Point
+2023-07-06,Khushi Ko Jeevan,978-9937-879-72-9,31.0,758.07,Nepalaya
+2023-07-07,Distance Education and E-Learning,978-9937-716-36-8,98.0,375.67,Om Publications
+2023-07-07,Bal Yatra Sundar,978-9937-168-26-2,26.0,398.42,Avinash Prakashan
+2023-07-10,Chhito Manzil,978-9937-292-36-2,34.0,1198.69,Bookhill
+2023-07-16,Dharma Ko Kahani,978-9937-838-22-7,54.0,1154.81,Sajha Prakashan
+2023-07-18,Shiksha Ra Vikas,978-9937-230-15-0,15.0,1338.61,Shrestha Books
+2023-07-18,Nepali Bhasha ra Sahitya,978-9937-366-62-8,34.0,428.88,Mitra and Brothers
+2023-07-20,Nepali Bhasha ra Sahitya,978-9937-366-62-8,72.0,552.82,Nepalaya
+2023-07-24,Bhulbhal,978-9937-170-55-1,56.0,755.31,Siddhartha Books
+2023-07-25,Women Empowerment in Nepal,978-9937-772-65-8,42.0,247.12,Ekta Books
+2023-07-27,Sustainable Development: Theory and Practice,978-9937-587-22-3,34.0,1255.39,Bookhill
+2023-07-28,Aashako Manchhe,978-9937-970-99-1,96.0,780.79,Himalayan Book Centre
+2023-08-02,Sajilo Yatra,978-9937-901-70-8,44.0,972.13,Adroit Publishers
+2023-08-02,Manavadhikar Ra Samasya,978-9937-588-14-1,57.0,1222.69,Adroit Publishers
+2023-08-06,Panchhi,978-9937-782-94-8,70.0,402.09,Shrestha Books
+2023-08-08,Katha Ko Yatra,978-9937-601-78-2,50.0,1163.67,Gyan Books
+2023-08-11,Khushi Ko Duniya,978-9937-723-87-4,90.0,1404.43,Pragya Publications
+2023-08-12,Psychology: An Introduction,978-9937-990-48-1,96.0,1238.72,Avinash Prakashan
+2023-08-16,Nepali Samaj Ra Vikas,978-9937-373-82-6,70.0,902.54,Fine Print
+2023-08-19,Microeconomics: Principles and Practices,978-9937-148-52-9,90.0,1035.11,Sajha Yatayat
+2023-08-19,Ritu,978-9937-639-83-4,73.0,351.48,Nirmal Publication
+2023-08-20,Nepal ko Khushi,978-9937-387-80-2,30.0,780.08,Srijana Prakashan
+2023-08-22,Muktak Ko Duniya,978-9937-899-94-7,50.0,1049.32,Bookhill
+2023-08-23,Samajik Itihas,978-9937-946-64-9,53.0,884.98,Mahatma Publication
+2023-08-24,Chhalfal,978-9937-800-55-9,13.0,1415.51,Srijana Prakashan
+2023-08-24,Jatra,978-9937-719-16-9,77.0,621.1,Educational Publishing House
+2023-08-28,Chhito Sundar,978-9937-584-80-8,57.0,791.88,Sajha Yatayat
+2023-08-28,Social Issues and Problems in Nepal,978-9937-241-41-3,88.0,263.47,Jagadamba Press
+2023-08-29,Contemporary Nepali Society,978-9937-670-35-8,100.0,319.86,Bhimsen Publications
+2023-08-30,Creative Writing: Theory and Practice,978-9937-772-22-1,62.0,775.63,Birat Books
+2023-08-31,Neural Networks and Deep Learning,978-9937-884-87-7,35.0,1328.08,Pragya Publications
+2023-08-31,Madhav Ko Bato,978-9937-150-22-3,83.0,1328.27,Katha Ghar
+2023-09-07,Khushi Ko Yatra Sundar,978-9937-932-11-9,19.0,1125.9,Nepalaya
+2023-09-08,Sabai Ko Itihas,978-9937-546-37-6,14.0,1036.74,Bookhill
+2023-09-10,Manohar,978-9937-678-59-2,73.0,552.1,Shrestha Books
+2023-09-13,Ramailo Kahani,978-9937-102-66-3,47.0,1196.94,Gyan Books
+2023-09-14,Advertising: Theory and Strategy,978-9937-965-26-4,45.0,1306.55,Samyukta Prakashan
+2023-09-20,Ek Paila Khushi,978-9937-427-89-6,71.0,211.38,Nirmal Publication
+2023-09-20,Marketing Management,978-9937-126-66-1,10.0,346.86,Birat Books
+2023-09-22,Nepali Rhymes,978-9937-398-35-1,68.0,992.92,Ratna Pustak Bhandar
+2023-09-23,Graphic Design Principles,978-9937-917-64-0,90.0,1034.93,Sajha Yatayat
+2023-09-25,Chhaijan,978-9937-261-25-1,54.0,782.54,Sajjan Publications
+2023-09-27,Fundamentals of Midwifery,978-9937-674-15-3,10.0,1179.72,Avinash Prakashan
+2023-10-01,Yatra Ra Khushi,978-9937-758-84-6,68.0,768.78,Bookhill
+2023-10-02,Baal Patak,978-9937-594-96-9,59.0,597.05,Sita Ram Prakashan
+2023-10-05,Jatiya Sangharsha Ko Anubhav,978-9937-522-80-4,69.0,311.23,Bookhill
+2023-10-06,Nepal Ko Mitra,978-9937-540-97-6,63.0,266.75,Nirmal Publication
+2023-10-07,Udaan,978-9937-766-94-5,41.0,1224.95,Shrestha Books
+2023-10-07,Remote Sensing: Principles and Applications,978-9937-572-92-5,83.0,647.15,Shrestha Books
+2023-10-09,Conservation Biology,978-9937-583-10-5,37.0,386.84,Himalayan Book Centre
+2023-10-26,Khusi Ko Pataka,978-9937-484-66-4,36.0,371.3,Mandala Book Point
+2023-10-31,Baal Ghar Ko Chhito,978-9937-735-17-9,93.0,1382.71,Bhimsen Publications
+2023-10-31,Bhagawat Geeta,978-9937-867-51-9,17.0,1298.66,Nirmal Publication
+2023-10-31,Bichar,978-9937-749-13-5,45.0,1491.56,Katha Ghar
+2023-11-01,Jatra Ma Sangharsha,978-9937-777-69-1,40.0,606.36,Jagadamba Press
+2023-11-03,Maanav Ra Yatra,978-9937-390-90-8,21.0,177.84,Himalayan Book Centre
+2023-11-06,Samaya Ra Sathi,978-9937-347-86-9,81.0,570.95,Fine Print
+2023-11-07,Yatra Ra Duniya,978-9937-133-64-0,85.0,612.46,Adroit Publishers
+2023-11-10,Sathi Ko Ramailo,978-9937-377-11-0,28.0,1052.41,Educational Publishing House
+2023-11-13,Pariwartan Ko Disha,978-9937-216-64-2,81.0,1175.73,Himal Books
+2023-11-15,Baal Ghar Ko Chhito,978-9937-735-17-9,11.0,382.17,Mahatma Publication
+2023-11-16,Architecture in Nepal,978-9937-390-25-0,66.0,785.03,Samyukta Prakashan
+2023-11-20,Prashant,978-9937-712-13-3,58.0,1290.31,Shankar Books
+2023-11-29,Health Communication,978-9937-370-37-9,12.0,409.0,Ekta Books
+2023-11-29,Maya Ko Ghar,978-9937-952-78-7,34.0,448.28,Siddhartha Books
+2023-11-30,Bal Sahitya,978-9937-950-94-6,19.0,1453.19,Pragya Publications
+2023-11-30,Introduction to Communication Studies,978-9937-820-21-3,45.0,1214.41,Shree Tara Books
+2023-12-02,Sathi Ko Khushi,978-9937-851-33-2,26.0,840.72,Mandala Book Point
+2023-12-02,Jatiya Sangharsha Ko Bato,978-9937-564-78-6,74.0,1360.03,Katha Ghar
+2023-12-03,Samadhan,978-9937-852-57-4,18.0,1037.77,Mahatma Publication
+2023-12-03,Introduction to Environmental Studies,978-9937-160-46-7,35.0,480.42,Himal Books
+2023-12-03,Nepal Ko Manavadhikar,978-9937-957-91-8,37.0,965.14,Adroit Publishers
+2023-12-05,Special Education Needs,978-9937-527-62-0,26.0,1011.92,Srijana Prakashan
+2023-12-05,Chhalphal Ko Kahani,978-9937-818-83-1,42.0,1080.72,Bhimsen Publications
+2023-12-11,Khiladi,978-9937-170-40-8,92.0,1095.22,Siddhartha Books
+2023-12-13,Saroj,978-9937-931-24-5,60.0,579.53,Ekta Books
+2023-12-15,Makhamali,978-9937-636-51-6,55.0,1000.0,Katha Ghar
+2023-12-15,Nepali Samaj Ko Vikas,978-9937-487-85-9,65.0,1377.26,Sajjan Publications
+2023-12-16,Philosophy: An Overview,978-9937-672-97-6,12.0,594.93,Fine Print
+2023-12-19,Maya Ko Rukh,978-9937-680-54-8,64.0,467.53,Mahatma Publication
+2023-12-24,Sangam,978-9937-929-58-2,46.0,971.37,Educational Publishing House
+2023-12-25,Manavadhikar Ra Nyaya,978-9937-334-28-0,69.0,1021.9,Nirmal Publication
+2023-12-26,Jatra Ma Khushi,978-9937-554-94-4,44.0,1236.88,Gyan Books
+2023-12-26,Baal Ghar Ko Yatra,978-9937-778-64-5,45.0,375.55,Katha Ghar
+2023-12-27,Documentary Film Making,978-9937-690-34-0,59.0,448.12,Om Publications
+2023-12-27,Dharmapath,978-9937-466-73-7,29.0,1445.03,Birat Books
+2023-12-27,Sukhad,978-9937-526-83-8,72.0,1242.03,Katha Ghar
+2023-12-30,Shiksha Ra Khusi Ko Katha,978-9937-369-94-7,61.0,338.62,Educational Publishing House
+2024-01-01,Arthik Bhatta,978-9937-653-52-6,63.0,1430.23,Sajha Yatayat
+2024-01-02,Project Management,978-9937-929-90-7,73.0,1110.78,Fine Print
+2024-01-06,Bharatiya,978-9937-876-82-7,23.0,983.74,Gyan Books
+2024-01-09,Yatra Ko Vishwa,978-9937-725-41-9,12.0,593.61,Mahatma Publication
+2024-01-12,Anant,978-9937-992-29-7,28.0,1058.8,Sajha Yatayat
+2024-01-13,Katha Ra Jatra,978-9937-634-66-7,56.0,786.89,Siddhartha Books
+2024-01-15,Khushi Ko Duniya,978-9937-723-87-4,54.0,313.35,Bhimsen Publications
+2024-01-17,Dharma,978-9937-908-39-2,92.0,1086.61,Shrestha Books
+2024-01-18,Nepal Ko Mitra,978-9937-540-97-6,92.0,808.43,Mahatma Publication
+2024-01-27,Sukanya,978-9937-858-10-9,47.0,821.38,Srijana Prakashan
+2024-02-03,Introduction to Film Production,978-9937-497-66-4,69.0,843.08,Samyukta Prakashan
+2024-02-06,Anand Ra Duniya,978-9937-940-19-5,69.0,377.63,Mandala Book Point
+2024-02-09,Chhito Kahani Ramailo,978-9937-465-67-1,42.0,1192.07,Bhimsen Publications
+2024-02-11,Neural Networks and Deep Learning,978-9937-884-87-7,68.0,1419.36,Sajjan Publications
+2024-02-13,Baal Manch,978-9937-612-80-5,68.0,645.69,Sita Ram Prakashan
+2024-02-19,Chhito Ramailo,978-9937-807-52-5,86.0,948.11,Bookhill
+2024-02-22,Adhunik Nepal,978-9937-583-13-4,97.0,938.55,Bhimsen Publications
+2024-02-23,Disaster Management,978-9937-109-52-4,68.0,1286.43,Gyan Books
+2024-02-26,Sanjha,978-9937-754-53-6,14.0,1414.67,Shree Tara Books
+2024-03-03,Exercise Physiology,978-9937-232-63-2,14.0,934.6,Sajha Yatayat
+2024-03-05,Yatra Ra Samasya,978-9937-902-72-5,15.0,1428.1,Katha Ghar
+2024-03-05,Aama Ko Parcha,978-9937-270-26-5,37.0,1493.68,Siddhartha Books
+2024-03-05,Human Resource Management,978-9937-296-80-9,23.0,690.54,Ekta Books
+2024-03-06,Phool Ko Ghar,978-9937-578-58-7,63.0,342.94,Ekta Books
+2024-03-06,Nepali Bhasha ra Sahitya,978-9937-366-62-8,81.0,1011.15,Sajjan Publications
+2024-03-11,Sanjhi,978-9937-953-44-7,39.0,214.32,Nirmal Publication
+2024-03-12,Jatra Ka Hunkar,978-9937-645-21-0,15.0,849.67,Educational Publishing House
+2024-03-14,Aashako Manchhe,978-9937-970-99-1,96.0,356.22,Om Publications
+2024-03-15,Ramailo Ghar Ko Yatra,978-9937-246-91-3,29.0,524.29,Birat Books
+2024-03-16,Rato Bangala,978-9937-956-35-3,67.0,480.47,Birat Books
+2024-03-19,Pariwartan Ko Samaya,978-9937-278-79-7,87.0,462.05,Avinash Prakashan
+2024-03-21,Prashasan Ko Adhikar,978-9937-923-70-2,51.0,718.25,Fine Print
+2024-03-24,Jatiya Sangharsha,978-9937-793-99-7,49.0,678.25,Sajha Prakashan
+2024-03-25,Environmental Engineering Principles,978-9937-762-92-1,10.0,1291.66,Ekta Books
+2024-03-30,Shree Krishna,978-9937-506-20-3,42.0,537.76,Shrestha Books
+2024-04-02,Smriti,978-9937-796-76-8,94.0,1108.68,Sajha Yatayat
+2024-04-03,Vimarsha,978-9937-501-41-6,93.0,464.77,Sajjan Publications
+2024-04-08,Social Work Principles and Practices,978-9937-312-71-5,93.0,239.29,Educational Publishing House
+2024-04-09,Gorkha Jatra,978-9937-343-39-7,35.0,215.65,Om Publications
+2024-04-10,Quantitative Aptitude,978-9937-628-16-3,50.0,1016.05,Mahatma Publication
+2024-04-17,Samaya Ma Ghar,978-9937-971-54-8,33.0,599.55,Birat Books
+2024-04-17,Katha Nanda,978-9937-781-42-7,36.0,759.93,Shankar Books
+2024-04-19,Sanskar Ko Asar,978-9937-160-42-9,13.0,520.02,Bhimsen Publications
+2024-04-19,Sukarma,978-9937-362-55-8,68.0,309.74,Sajha Prakashan
+2024-04-22,Sathi Ko Sandesh,978-9937-658-12-3,31.0,1101.77,Pragya Publications
+2024-04-27,Khushi Ko Bal Pataka,978-9937-492-46-4,67.0,1177.59,Sita Ram Prakashan
+2024-04-28,Khusi Ko Ramailo Ghar,978-9937-279-81-7,67.0,277.78,Om Publications
+2024-04-29,Jatiya Sangharsha Ko Bato,978-9937-564-78-6,42.0,927.23,Himal Books
+2024-04-29,Nawa Safar,978-9937-536-12-6,56.0,1075.06,Educational Publishing House
+2024-05-09,Chandra Kanta,978-9937-360-66-2,44.0,1130.25,Nepalaya
+2024-05-13,Khushi Ra Samaya,978-9937-584-26-4,99.0,556.71,Ekta Books
+2024-05-14,Nepal Ko Bhatta,978-9937-425-49-5,13.0,616.51,Sajha Prakashan
+2024-05-14,Katha Ko Yatra,978-9937-601-78-2,77.0,1232.58,Gyan Books
+2024-05-16,Maya Ko Shabdaharu,978-9937-854-95-1,49.0,1143.72,Educational Publishing House
+2024-05-20,Nepal Yatra,978-9937-112-78-2,67.0,1433.48,Mitra and Brothers
+2024-05-24,Kura Kura,978-9937-732-77-3,30.0,1086.7,Gyan Books
+2024-05-26,Maya Ko Katha,978-9937-761-49-7,30.0,777.39,Gyan Books
+2024-05-26,Ghar ko Ghar,978-9937-691-75-9,19.0,467.06,Fine Print
+2024-05-30,Nirmal,978-9937-593-96-0,82.0,209.01,Mandala Book Point
+2024-05-30,Himalaya Ka Katha,978-9937-326-98-0,61.0,990.49,Katha Ghar
+2024-05-31,Arthik Vikas Ko Bato,978-9937-418-15-0,63.0,1368.32,Sajjan Publications
+2024-06-02,Janata Ko Manch,978-9937-947-63-1,30.0,456.33,Ratna Pustak Bhandar
+2024-06-02,Ramailo Chhito,978-9937-322-73-5,89.0,379.94,Sita Ram Prakashan
+2024-06-04,Suna Ko Chhito,978-9937-472-80-5,85.0,351.59,Nirmal Publication
+2024-06-07,Man Ko Samaya,978-9937-218-83-9,100.0,1097.09,Sajjan Publications
+2024-06-07,History of Physical Education in Nepal,978-9937-992-28-2,64.0,819.38,Adroit Publishers
+2024-06-09,Research Methodology,978-9937-452-11-5,51.0,367.18,Sajha Prakashan
+2024-06-10,Nepal Ko Udyog Yatra,978-9937-692-86-8,72.0,163.7,Om Publications
+2024-06-25,Khushi Ko Bal Kahani,978-9937-532-72-8,73.0,311.55,Sajha Yatayat
+2024-07-04,Development Economics,978-9937-460-61-5,32.0,194.78,Ekta Books
+2024-07-05,Social Work Principles and Practices,978-9937-312-71-5,42.0,975.55,Avinash Prakashan
+2024-07-07,Natural Disasters in Nepal,978-9937-261-33-8,40.0,874.72,Nepalaya
+2024-07-08,Sanjay,978-9937-312-13-5,74.0,210.23,Om Publications
+2024-07-10,Principles of Management,978-9937-470-12-8,85.0,248.44,Jagadamba Press
+2024-07-11,Naya Saathi,978-9937-572-68-1,32.0,1057.85,Avinash Prakashan
+2024-07-12,Nepali Prashasan,978-9937-366-82-9,68.0,781.15,Ratna Pustak Bhandar
+2024-07-12,Khushi Ra Ghar,978-9937-531-23-4,22.0,1121.12,Fine Print
+2024-07-14,Prashasan Ko Ramailo,978-9937-338-53-1,44.0,639.32,Shrestha Books
+2024-07-22,Indigenous Rights and Issues,978-9937-794-76-1,82.0,231.47,Ekta Books
+2024-07-23,Kranti,978-9937-714-39-9,49.0,455.97,Himal Books
+2024-07-26,Basanta,978-9937-437-28-0,73.0,849.17,Mitra and Brothers
+2024-08-01,Maya Ko Safar,978-9937-146-85-6,24.0,645.66,Bhimsen Publications
+2024-08-03,Dharma Ra Ramailo,978-9937-986-59-4,63.0,246.07,Fine Print
+2024-08-06,Teaching Methods and Strategies,978-9937-913-89-1,44.0,1269.06,Mandala Book Point
+2024-08-08,Pani Ra Maya,978-9937-711-10-7,78.0,1402.94,Bookhill
+2024-08-10,Samajik Itihas Ko Mahatv,978-9937-500-62-0,71.0,491.84,Bhimsen Publications
+2024-08-16,Bal Katha,978-9937-128-82-5,47.0,1180.44,Srijana Prakashan
+2024-08-19,Curriculum Development and Design,978-9937-933-89-8,26.0,564.08,Jagadamba Press
+2024-08-20,Prashasan Ra Samaj,978-9937-105-92-0,18.0,428.6,Sita Ram Prakashan
+2024-08-21,Bal Ramailo Ghar Yatra,978-9937-831-62-3,82.0,456.32,Sita Ram Prakashan
+2024-08-21,Panchhi,978-9937-782-94-8,54.0,1445.93,Bookhill
+2024-08-28,Chhalphal Ghar Pataka,978-9937-596-41-8,38.0,1222.96,Himalayan Book Centre
+2024-08-30,Shiksha Ko Samaya,978-9937-957-36-5,74.0,1361.41,Sajha Yatayat
+2024-09-02,Philosophy of Nursing,978-9937-877-94-7,55.0,576.36,Sajjan Publications
+2024-09-02,Child Rights and Protection,978-9937-701-89-0,32.0,345.63,Sajha Yatayat
+2024-09-04,Software Development Lifecycle,978-9937-998-59-4,49.0,1308.17,Educational Publishing House
+2024-09-05,Dai Ko Yatra,978-9937-101-13-5,80.0,767.37,Siddhartha Books
+2024-09-09,Chitwan Ka Katha,978-9937-408-38-7,85.0,215.14,Nirmal Publication
+2024-09-11,Entrepreneurship Development,978-9937-425-96-3,55.0,1093.99,Sita Ram Prakashan
+2024-09-13,Aasha,978-9937-934-87-5,95.0,244.02,Nepalaya
+2024-09-22,Introduction to Development Studies,978-9937-566-63-4,82.0,1329.94,Sajjan Publications
+2024-09-23,Introduction to Civil Engineering,978-9937-294-47-0,22.0,594.32,Srijana Prakashan
+2024-09-24,Rajesh Hamal Ko Ghar,978-9937-271-87-6,24.0,255.67,Bookhill
+2024-09-25,Bal Ramailo Patak Yatra,978-9937-481-43-0,33.0,541.57,Ratna Pustak Bhandar
+2024-09-28,Bhai Ko Bhavishya,978-9937-716-44-8,44.0,182.62,Samyukta Prakashan
+2024-10-13,Bal Kahani Pustak,978-9937-968-81-5,12.0,1420.72,Ratna Pustak Bhandar
+2024-10-18,Jatra Ko Khusi Yatra,978-9937-349-69-4,69.0,1469.93,Sajjan Publications
+2024-10-19,Man Ko Ramailo,978-9937-453-19-8,82.0,1269.33,Jagadamba Press
+2024-10-22,Khushi Ko Yatra Sundar,978-9937-932-11-9,64.0,332.28,Himal Books
+2024-10-23,Maya Ra Maanav,978-9937-343-16-1,100.0,951.52,Om Publications
+2024-10-24,Sanskriti Ra Itihas,978-9937-881-60-0,52.0,736.33,Jagadamba Press
+2024-10-25,Prashasan Ko Itihas,978-9937-929-68-7,44.0,1178.1,Nirmal Publication
+2024-10-27,Saroj,978-9937-931-24-5,82.0,896.34,Om Publications
+2024-11-01,Software Engineering Principles,978-9937-946-82-1,31.0,616.43,Nirmal Publication

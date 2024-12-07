@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluation Results</title>
+    <style>
+        .container { width: 80%; margin: auto; }
+        .graph img { width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Evaluation Results</h1>
+        <p><strong>RMSE:</strong> {{ data.rmse }}</p>
+        <p><strong>Total Ratings:</strong> {{ data.total_ratings }}</p>
+        <p><strong>Unique Users:</strong> {{ data.unique_users }}</p>
+        <p><strong>Unique Books:</strong> {{ data.unique_books }}</p>
+        <p><strong>Sparsity:</strong> {{ data.sparsity }}</p>
+
+        <h2>Graphs</h2>
+        <div class="graph">
+            <h3>User Rating Distribution</h3>
+            <img src="{{ data.user_dist_graph }}" alt="User Rating Distribution">
+        </div>
+        <div class="graph">
+            <h3>Book Rating Distribution</h3>
+            <img src="{{ data.book_dist_graph }}" alt="Book Rating Distribution">
+        </div>
+        <button class="back-button" onclick="window.location.href='/'">Back to Home</button>
+    </div>
+</body>
+</html>

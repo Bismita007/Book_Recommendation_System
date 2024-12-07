@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Modeling Results</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Arial', sans-serif;
+        }
+        .container-fluid {
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #007bff;
+        }
+        .progress {
+            height: 30px;
+            margin-bottom: 10px;
+        }
+        .progress-bar {
+            background-color: #28a745;
+            transition: width 0.5s ease-in-out;
+        }
+        .content {
+            background-color: #ffffff;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow-x: auto;  /* Ensures that wide content like tables fit */
+            width: 100%;  /* Make sure the content takes full available width */
+            box-sizing: border-box; /* Ensure padding doesn't make content overflow */
+        }
+        .text-center {
+            font-weight: bold;
+        }
+
+        /* Ensure content fits the screen properly */
+        @media (max-width: 768px) {
+            h1, h2, h3 {
+                font-size: 1.5rem;
+            }
+            .container-fluid {
+                padding: 10px;
+            }
+            .content {
+                padding: 15px;
+            }
+        }
+
+        /* Ensure proper alignment and spacing */
+        .container-fluid h1, .container-fluid h2, .container-fluid h3 {
+            text-align: center;
+        }
+        .content ul, .content ol {
+            margin-left: 20px;
+        }
+        .content li {
+            margin-bottom: 10px;
+        }
+
+        /* Additional CSS to handle content overflow in tables or divs */
+        .table-responsive {
+            width: 100%;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 class="my-4">Data Modeling Results</h1>
+
+        <!-- Progress Bar Section -->
+        <div class="content">
+            <h3 class="mb-3">Working on Data Modeling...</h3>
+            <div class="progress">
+                <div class="progress-bar" role="progressbar" style="width: 0%;" id="progress-bar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p id="timer" class="mt-2">0/20 seconds</p>
+        </div>
+
+        <!-- Content Sections -->
+        <div class="content">
+            <h2 class="mb-3">Content-Based Filtering (Books Metadata)</h2>
+            <div class="table-responsive">
+                <div>{{ content_filtering|safe }}</div>  <!-- Ensure content is inside a scrollable table container -->
+            </div>
+        </div>
+
+        <div class="content">
+            <h2 class="mb-3">Collaborative Filtering (User-Item Matrix)</h2>
+            <div class="table-responsive">
+                <div>{{ collaborative_filtering|safe }}</div>  <!-- Same here for ensuring scrollability -->
+            </div>
+        </div>
+
+        <!-- Explanation Section -->
+        <div class="content">
+            <h2 class="mb-3">Data Modeling Process Explanation</h2>
+            <p>In this data modeling process, I performed the following steps:</p>
+            <ol>
+                <li>Loaded data from four CSV files: book ratings, book inventory, sales data, and supplier data.</li>
+                <li>Prepared a User-Item Matrix for Collaborative Filtering:
+                    <ul>
+                        <li>Grouped ratings by Customer ID and ISBN, calculating the mean rating.</li>
+                        <li>Created a pivot table with customers as rows, books as columns, and ratings as values.</li>
+                    </ul>
+                </li>
+                <li>Merged Books Metadata for Content-Based Filtering:
+                    <ul>
+                        <li>Combined book inventory data with sales and supplier information using ISBN as the key.</li>
+                    </ul>
+                </li>
+                <li>Sampled 10 rows from both the User-Item Matrix and the merged Books Metadata for display.</li>
+                <li>Created a final merged dataset combining all the information, saved as 'merged_books_data.csv'.</li>
+            </ol>
+            <p>This process prepares the data for both collaborative and content-based filtering approaches in recommendation systems.</p>
+        </div>
+
+        <h3 class="mt-4 text-center">The merged data has been saved as <strong>merged_books_data.csv</strong> in the project directory.</h3>
+    </div>
+
+    <script>
+        let progressBar = document.getElementById('progress-bar');
+        let timerDisplay = document.getElementById('timer');
+        let timeRemaining = 20;
+        let interval;
+
+        function updateProgress() {
+            if (timeRemaining <= 0) {
+                clearInterval(interval);
+                progressBar.style.width = "100%";
+                progressBar.setAttribute('aria-valuenow', 100);
+                timerDisplay.innerHTML = "Completed!";
+                return;
+            }
+
+            timeRemaining--;
+            let percentage = ((20 - timeRemaining) / 20) * 100;
+            progressBar.style.width = percentage + "%";
+            progressBar.setAttribute('aria-valuenow', percentage);
+            timerDisplay.innerHTML = `${20 - timeRemaining}/20 seconds`;
+        }
+
+        // Start the progress bar immediately when the page loads
+        interval = setInterval(updateProgress, 1000);
+    </script>
+<button class="back-button" onclick="window.location.href='/'">Back to Home</button>
+</body>
+</html>
